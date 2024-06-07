@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+.OurProgramcontent{ width:888px; margin:28px auto 0 auto;}
+h1.OurProgramh2{ font-size:18px; color:#fdb301; font-family:Arial; background:url( no-repeat left center; height:57px; line-height:57px; text-indent:40px;}
+h1.OurProgramh2 span{ float:left; display:inline;}
+h1.OurProgramh2 a{ float:right;margin-right:80px;color:#F7CB00;}
+h1.OurProgramh2 span{ float:left;}
+a.Mores{ float:right;color:#fdb301; text-decoration:underline; font-size:12px; margin-right:55px; line-height:57px;}
+.OurProgramcontentx{ width:786px; margin:0 auto; padding-top:20px;}
+h3.classdemo{ font-size:14px; font-family:Arial;}
+.classdemo a{ color:#454444;}
+.OurP p{ color:#454444;font-family:Arial;font-size:12px;}
+.OurP table{ border:1px solid #000000;border-collapse:collapse;*border-left:0px solid #000000; margin-top:20px;}
+.OurP table tr td{ border-right:1px solid #000; border-bottom:1px solid #000;border:1px solid #000;}
+.outmargin{ margin-top:35px;}
+.lastp{ margin:23px 0 30px 0;}
+.lastp p{ font-family:Arial; font-size:12px; color:#454444;}
+a.Demoa{ background:url( no-repeat center center; display:block; width:252px; height:67px; line-height:50px;  overflow:hidden; float:left; margin-right:18px;padding-left:35px;color:#fdb301; font-size:18px; font-weight:bold;}
+a.Classa{ background:url( no-repeat center center; display:block; width:247px; height:67px;padding-left:40px; line-height:50px; overflow:hidden; float:left; font-size:18px; font-weight:bold;color:#fdb301;}
+.Ourpc{ margin:0 auto; overflow:hidden;}
+.Ourpc p{font-family:Arial; font-size:12px; color:#454444; margin:0px 0 15px 0;}
+.xin1{ clear:both;width:888px;}
+.xin1 h1{ margin-top:10px;}
+.xin1 h1 span{ float:left; display:inline;}
+.xin1 h1 a{ float:right; margin-right:80px;color:#f7cb00;}
+.OurProduct,.xin1_1{ width:149px; min-height:130px;_height:130px; float:left;margin-right:7px; margin-bottom:28px;}
+.Ourpimg img{ padding:1px; border:1px solid #bcbcbc;}
+.name{ font-size:14px; color:#020202; margin-top:2px;}
+.name p{ font-size:12px; font-style:italic; color:#020202;}
+.ourptext{ width:782px; margin:10px auto 0 auto;}
+a.detailsa{ font-size:12px; color:#ff9900;font-family:Arial; float:right; text-decoration:underline; margin-top:15px;}
+a.demargin{ margin-top:10px; margin-bottom:10px;}
+.ourku{ margin:15px 0;}
+.ourptext p{ font-size:12px; color:#454444; font-family:Arial; display:block; height:50px;}
+.ourimg{ float:left;}
+.ourimtext{ float:left; width:584px; margin-left:12px; min-height:109px;_height:109px;}
+.ourimtext p{ font-size:12px; color:#454444; margin-top:5px; line-height:1.2;}
+.ourimg img{ padding:1px; border:1px solid #bbbbbb;}
+h2.titleh2{ font-size:14px; font-family:Arial; }
+.titleh2 a{color:#ff9900;}
+a.Dea{font-size:12px; color:#ff9900;font-family:Arial;text-decoration:underline; margin-top:25px; display:block; width:40px;}
+.ul{ width:317px; float:left;}
+div.ulmargin{ margin-left:70px;}
+.ul ul li{ background:url( no-repeat left 5px; padding:0px 0 0px 13px; margin:15px 0;}
+.ul ul li a{ font-size:12px; color:#454444;font-family:Arial;}
+.ul ul li a:hover{color:#fdb301;}
+h3.titleh3{  font-size:16px;}
+.titleh3 a{color:#fdb301;}
+p.ourpform{ font-size:12px;  color:#484848;}
+.formtable{ width:610px; margin-left:20px;}
+.formtable table tr td{ color:#494949;font-size:12px; }
+
+.rad{ vertical-align:middle;}
+.text3{width:316px; height:20px; line-height:22px; border:1px solid #a7a7a7;}
+.select{ width:74px; height:19px; line-height:21px;border:1px solid #a7a7a7;}
+#month,#day{border:1px solid #a7a7a7;}
+.ourpform span{ color:#ff6600;}
+.ourpform span.oupp{ color:#ffa800;font-size:10px; }
+.textwenzi{ margin-top:20px; padding:0;}
+.textwenzi p{ line-height:normal; height:inherit;}
+.paddingx{ padding-top:20px;}
+.line{ line-height:1.6;}
+
+
+

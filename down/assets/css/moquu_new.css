@@ -1,0 +1,5739 @@
+
+
+.clearfix {
+	clear:both
+}
+a {
+	text-decoration:none;
+	color:#535353;
+	font-size:12px
+}
+html {
+	overflow-x:hidden
+}
+
+a {
+	text-decoration:none;
+	color:#535353;
+	font-size:12px
+}
+img {
+	border:0;
+}
+li {
+	list-style-type:none
+}
+.moquu_mt10 {
+	margin-top:5px
+}
+.moquu_mr11 {
+	margin-right:11px;
+	float:left
+}
+.moquu_mb10 {
+	margin-bottom:15px
+}
+.moquu_mb20 {
+	margin-bottom:20px
+}
+.moquu_t40 {
+	padding:40px 0
+}
+.moquu_red {
+	color:red
+}
+.moquu_rex {
+	color:#fff
+}
+.moquu_lin {
+	border-bottom:#ecf2f5 1px solid;
+	width:100%
+}
+.t10 {
+	margin-top:10px
+}
+.t20 {
+	}.clear {
+	clear:both
+}
+.fleft,.fl,.moquu_nnav,.moquu_nmlink,.moquu_zpneww {
+	float:left
+}
+.fright,.fr {
+	float:right
+}
+ol,ul,li {
+	list-style:none
+}
+dl,dt,dd,ul,li,p {
+	margin:0;
+	padding:0
+}
+input,textarea {
+	outline:0
+}
+::selection {
+	background:#e74987;
+	color:#fff
+}
+::-moz-selection {
+	background:#e74987;
+	color:#fff
+}
+::-webkit-selection {
+	background:#e74987;
+	color:#fff
+}
+h1,h2,h3,h4,h5,h6 {
+	margin:0;
+	padding:0;
+
+	font-weight:normal
+}
+.moquu_haoico32 a {
+	background-position:0 -720px
+}
+.moquu_logo a,.moquu_logo a:hover,.moquu_zoz,.moquu_zoz:hover,.moquu_zoy,.moquu_zoy:hover,.top-edit,.top-rec .delete,.top-rec .add,.icon-alter,.top-title .save,#focus .btn span,#focus .btn span.on,a.moquu_scxin,a.moquu_scxin:hover,.index_notice_horn,.index_notice_cl li,.moquu_zz .weibo,.moquu_zz .bdpan,.moquu_zz .qiniu,.moquu_small .tx,.moquu_small .sj,.moquu_small .see,.moquu_rrxiam,.moquu_rrxiax,.moquu_small .lm,.moquu_homy,moquu_wxin {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) no-repeat
+}
+#weibo a {
+	background:#d63b22 url(https://www.qijishow.com/down/assets/app/weibo.png) no-repeat 0 -5px
+}
+#qq a {
+	background:#3eb0d8 url(https://www.qijishow.com/down/assets/app/qq.png) no-repeat 0 -5px
+}
+.moquu_tpic {
+	height:34px;
+	width:360px
+}
+.moquu_h .moquu_f .moquu_b {
+	margin:0 auto
+}
+.moquu_com {
+	margin:0 auto;
+	width:100%;
+	height:68px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_bg2.jpg)
+}
+.moquu_dhmap {
+	width:1200px;
+}
+.moquu_top {
+	height:63px;
+	margin:0 auto;
+	padding-top:20px
+}
+.moquu_logo {
+	width:295px;
+	height:39px;
+	float:left
+}
+.moquu_logo a {
+	width:295px;
+	height:39px;
+	float:left;
+	background-position:0 -317px;
+	text-indent:-9999px
+}
+.moquu_logo a:hover {
+	background-position:0 -355px;
+	text-indent:-9999px
+}
+.moquu_dl {
+	height:45px;
+	line-height:40px;
+	float:right;
+	color:#7e7e7e
+}
+.moquu_me {
+	float:right;
+	color:#777;
+	filter:Alpha(Opacity=20);
+	-moz-opacity:.2;
+	opacity:.2;
+	margin-top:10px
+}
+.moquu_me:hover {
+	float:right;
+	opacity:.5;
+	filter:Alpha(Opacity=50);
+	-moz-opacity:.5
+}
+.moquu_zo {
+	float:left;
+	margin-left:10px;
+	margin-top:2px
+}
+.moquu_zoz {
+	float:left;
+	text-align:center;
+	background-position:0 -839px;
+	height:38px;
+	width:81px
+}
+.moquu_zoz a {
+	color:#9e9e9e
+}
+.moquu_zoz:hover {
+	float:left;
+	background-position:-150px -839px;
+	height:38px;
+	width:81px
+}
+.moquu_zoz:hover a {
+	color:#fff;
+	height:38px;
+	width:81px;
+	float:left
+}
+.moquu_zoy {
+	float:left;
+	text-align:center;
+	background-position:-81px -839px;
+	height:38px;
+	width:69px
+}
+.moquu_zoy a {
+	color:#9e9e9e
+}
+.moquu_zoy:hover {
+	float:left;
+	background-position:-231px -839px;
+	height:38px;
+	width:69px
+}
+.moquu_zoy:hover a {
+	color:#fff;
+	height:38px;
+	width:69px;
+	float:left
+}
+.moquu_nav {
+	margin:0 auto;
+	width:100%;
+	background:#333;
+	border-top:1px #383838 solid;
+	border-bottom:1px #444 solid
+}
+.moquu_nav span {
+	position:absolute;
+	background:url(https://www.qijishow.com/down/assets/app/hot.gif) no-repeat;
+	margin-top:23px;
+	height:11px;
+	width:11px;
+	z-index:1500
+}
+.moquu_hom {
+	height:56px;
+	margin:0 auto;
+	line-height:56px
+}
+.moquu_hom a,.moquu_h .moquu_f .moquu_b .moquu_n span a {
+	color:#c5c5c5;
+	font-size:14px
+}
+.moquu_hom a:hover {
+	background:#555658;
+	font-size:14px;
+	color:#FFF
+}
+.moquu_hom a.moquu_zt,.moquu_h .moquu_f .moquu_b .moquu_n span a.moquu_zt {
+	background:#454648;
+	font-size:14px;
+	color:#e7e7e7
+}
+.moquu_homz {
+	float:left
+}
+.moquu_homy {
+	float:right;
+	margin-left:10px;
+	width:192px;
+	height:32px;
+	margin-top:14px;
+	background-position:-81px -287px
+}
+.moquu_search {
+	float:left;
+	color:#999;
+	width:140px;
+	margin:3px 5px;
+	line-height:22px;
+	height:22px;
+	border:0
+}
+.moquu_scbtn {
+	width:40px;
+	height:40px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_kb.gif) no-repeat;
+	border:0;
+	cursor:pointer
+}
+.moquu_topad {
+	margin:0 auto
+}
+.top-box {
+	padding:15px 5px 2px 5px;
+	margin-top:20px;
+	background:#f7f7f7;
+	border:1px solid #e6e5e5;
+	overflow:hidden
+}
+.top-edit {
+	float:left;
+	margin:0 0 8px 11px;
+	width:52px;
+	background-position:-104px -159px;
+	no-repeat
+}
+.top-edit a {
+	display:block;
+	padding-top:52px;
+	line-height:18px;
+	text-align:center;
+	color:#0a97da
+}
+.top-rec {
+	float:right
+}
+.top-rec li a,.top-edit a {
+	color:#777
+}
+.top-rec li {
+	position:relative;
+	float:left;
+	margin:0 11px 15px 0;
+	_margin:0 11px 10px 0;
+	height:70px
+}
+.top-rec li img {
+	border:1px solid #e3e3e3;
+	padding:3px;
+	height:44px;
+	background:#f9f9f9
+}
+.top-rec li span {
+	display:block;
+	height:20px;
+	line-height:20px;
+	overflow:hidden;
+	white-space:nowrap;
+	text-align:center;
+	cursor:pointer
+}
+.top-rec .delete,.top-rec .add {
+	display:none;
+	position:absolute;
+	right:-6px;
+	top:34px;
+	width:12px;
+	height:12px;
+	background-position:-211px -33px;
+	cursor:pointer
+}
+.top-rec .add {
+	background-position:-227px -33px
+}
+.top-title {
+	clear:both;
+	position:relative;
+	margin:10px auto;
+	border-top:1px solid #ececec;
+	height:32px;
+	background:#f9f9f9
+}
+.icon-alter {
+	position:absolute;
+	top:-6px;
+	left:26px;
+	width:16px;
+	height:6px;
+	background-position:-231px -3px
+}
+.top-title .direcions {
+	position:absolute;
+	top:0;
+	left:10px;
+	line-height:32px;
+	color:#676d72
+}
+.top-title .save {
+	display:block;
+	position:absolute;
+	top:4px;
+	right:10px;
+	width:66px;
+	height:23px;
+	background-position:-233px -117px;
+	line-height:23px;
+	text-align:center
+}
+.top-rec-con {
+	float:none;
+	margin-left:15px
+}
+.top-rec-con li {
+	margin-right:15px;
+	margin-bottom:15px
+}
+.moquu_ad {
+	margin-top:20px;
+	padding:15px;
+	background:#f7f7f7;
+	border:1px solid #e6e5e5
+}
+#focus {
+	height:270px;
+	overflow:hidden;
+	position:relative
+}
+#focus ul {
+	height:300px;
+	position:absolute
+}
+#focus ul li {
+	float:left;
+	height:270px;
+	overflow:hidden;
+	position:relative;
+	background:#000
+}
+#focus ul li div {
+	position:absolute;
+	overflow:hidden
+}
+#focus .btnBg {
+	position:absolute;
+	height:25px;
+	left:0;
+	bottom:0
+}
+#focus .btn {
+	position:absolute;
+	text-align:center;
+	height:18px;
+	left:0;
+	bottom:3px
+}
+#focus .btn span {
+	display:inline-block;
+	_display:inline;
+	_zoom:1;
+	width:11px;
+	height:11px;
+	line-height:11px;
+	text-align:center;
+	text-indent:-9999px;
+	font-family:"Microsoft YaHei",SimHei;
+	margin-right:10px;
+	cursor:pointer;
+	color:#fff;
+	background-position:-221px -118px
+}
+#focus .btn span.on {
+	background-position:-221px -129px;
+	color:#fcc
+}
+.moquu_zp {
+	background:#eee;
+	float:left;
+	margin-top:25px;
+	width:100%
+}
+
+.moquu_commoz {
+	margin:10px auto
+}
+.moquu_commox {
+	margin:20px auto
+}
+.moquu_main {
+	margin:10px auto
+}
+.moquu_t {
+	position:absolute;
+	left:-1000px;
+	top:1000px
+}
+.moquu_img {
+	margin-top:10px;
+	min-height:50px;
+	padding:7px;
+	background:#fff;
+	font-size:12px;
+	float:left
+}
+.moquu_img3 {
+	margin-top:10px;
+	min-height:50px;
+	padding:20px 20px 20px 10px;
+	background:#fff;
+	font-size:12px;
+	float:left
+}
+.moquu_img .moquu_pic img,.moquu_img .moquu_picc img {
+	background:#ccc;
+	display:block;
+	min-height:161px;
+	cursor:pointer
+}
+.moquu_zptox,.moquu_zptoxm,.moquu_zptoxv {
+	float:left
+}
+.moquu_rrtop,.moquu_wbbook,.moquu_dshuo {
+	float:left
+}
+.moquu_zptop {
+	float:left;
+	/* margin-left:8px */
+}
+.moquu_img .moquu_picc {
+	overflow:hidden;
+	display:block;
+	height:160px
+}
+.moquu_zpimg,.moquu_zpimg2 {
+	margin-top:10px;
+	min-height:50px;
+	background:#fff;
+	font-size:12px;
+	float:left
+}
+.moquu_zpimg .moquu_pic img,.moquu_zpimg .moquu_picc img {
+	background:#ccc;
+	display:block;
+	min-height:50px
+}
+.moquu_zpbt {
+	color:#b9b9b9;
+	width:220px;
+	float:left;
+	font-size:12px;
+	margin-top:3px;
+	font-family:Verdana,Geneva,"宋体";
+	overflow:hidden;
+	border-bottom:1px #f8f8f8 solid;
+	height:32px;
+	line-height:32px;
+	overflow:hidden;
+	white-space:nowrap;
+	-o-text-overflow:ellipsis;
+	text-overflow:ellipsis
+}
+.moquu_zpbt img {
+	vertical-align:middle
+}
+.moquu_zpbt a {
+	color:#666
+}
+.moquu_zpbt a:hover {
+	color:#ff5f83
+}
+.moquu_zpfx {
+	color:#888;
+	width:222px;
+	float:left;
+	font-size:12px;
+	line-height:19px;
+	margin-top:3px;
+	font-family:"宋体";
+	overflow:hidden;
+	height:35px;
+	border-bottom:1px #f8f8f8 solid
+}
+.moquu_zpfx a {
+	color:#444
+}
+.moquu_zpfx a:hover {
+	color:#ff5f83
+}
+a.moquu_scxin {
+	float:right;
+	height:18px;
+	margin-top:6px;
+	width:28px;
+	height:20px;
+	background-position:-211px -86px
+}
+a.moquu_scxin:hover {
+	background-position:-181px -86px
+}
+.moquu_fxd {
+	display:inline-block;
+	float:left;
+	color:#cfcece;
+	text-shadow:0 1px 0 #FFF;
+	padding:8px 0 0 0
+}
+.moquu_zpico .bds_tsina {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_sina_icon.jpg) no-repeat!important
+}
+.moquu_zpico .bds_tsina:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_sina_icon2.jpg) no-repeat!important
+}
+.moquu_zpico .bds_qzone {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_qzone_icon.jpg) no-repeat!important
+}
+.moquu_zpico .bds_qzone:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_qzone_icon2.jpg) no-repeat!important
+}
+.moquu_zpico .bds_huaban {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_qqt_icon.jpg) no-repeat!important
+}
+.moquu_zpico .bds_huaban:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_qqt_icon2.jpg) no-repeat!important
+}
+.moquu_seez {
+	background:#fff;
+	display:block;
+	float:right;
+	height:22px;
+	line-height:23px;
+	width:32px;
+	text-align:center;
+	padding-left:3px;
+	border:1px #ececec solid;
+	font-family:"Helvetica Neue",Arial,Helvetica,"Nimbus Sans L",sans-serif
+}
+.moquu_seez:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -181px -86px;
+	line-height:0;
+	font-size:0;
+	cursor:pointer
+}
+.moquu_zptags {
+	height:35px;
+	width:220px;
+	line-height:36px;
+	overflow:hidden;
+	color:#b9b9b9
+}
+.moquu_zptags ul {
+	height:40px;
+	font-family:Verdana,Geneva,"宋体"
+}
+.moquu_zpzz {
+	height:26px;
+	line-height:24px;
+	color:#cfcece;
+	float:left;
+	margin-top:8px
+}
+.moquu_zpzz a {
+	display:block;
+	float:left;
+	height:24px;
+	margin-right:5px;
+	color:#8d8d8d;
+	max-width:117px;
+	display:block;
+	word-break:keep-all;
+	white-space:nowrap;
+	overflow:hidden
+}
+.moquu_zpzz img {
+	vertical-align:top
+}
+.moquu_ttag {
+	color:#f4f4f4;
+	margin-top:-93px;
+	float:right
+}
+.moquu_zpnew {
+	float:left;
+	margin-top:-10px
+}
+.moquu_zpnewx {
+	float:left;
+	width:980px;
+	margin:15px 0 15px 0
+}
+.moquu_zpnews {
+	float:left;
+	width:980px
+}
+.moquu_zpnewz {
+	float:left;
+	margin-top:20px;
+	padding:0 25px;
+	color:#666;
+	font-size:20px;
+	font-family:"微软雅黑","黑体";
+	font-weight:bold;
+	text-decoration:none
+}
+.moquu_zpnewa {
+	float:right;
+	margin-top:20px;
+	font-size:14px;
+	color:#ae856a
+}
+.moquu_zpnewy {
+	float:right;
+	margin-right:20px;
+	margin-top:20px;
+	font-size:14px;
+	color:#ae856a
+}
+.moquu_zpnewy a {
+	font-size:14px;
+	color:#ae856a
+}
+.moquu_zpnewy a:hover {
+	font-size:14px;
+	color:#e74987
+}
+#scrollDiv {
+	width:500px;
+	float:left;
+	overflow:hidden
+}
+#index_notice {
+	float:left;
+	width:580px;
+	margin-top:17px;
+	height:40px;
+	overflow:hidden;
+	position:relative
+}
+.index_notice_horn {
+	width:30px;
+	height:40px;
+	background-position:-245px -1px;
+	float:left
+}
+.index_notice_li {
+	float:left;
+	display:block;
+	width:520px;
+	height:40px;
+	position:relative;
+	top:0;
+	left:0
+}
+.index_notice_li li {
+	height:40px;
+	line-height:38px;
+	display:block
+}
+.index_notice_li li b {
+	color:#e74987
+}
+.index_notice_cl {
+	width:30px;
+	height:40px;
+	float:left
+}
+.index_notice_cl li {
+	display:block;
+	width:20px;
+	height:20px;
+	cursor:pointer;
+	vertical-align:bottom;
+	margin-left:10px
+}
+.index_notice_cl #btn1 {
+	background-position:-265px -68px
+}
+.index_notice_cl #btn1:hover {
+	background-position:-245px -55px
+}
+.index_notice_cl #btn2 {
+	background-position:-285px -58px
+}
+.index_notice_cl #btn2:hover {
+	background-position:-245px -71px
+}
+.moquu_downj,.moquu_down {
+	margin:0 auto;
+	height:130px
+}
+.moquu_down,.moquu_downtop,.moquu_downtop4,.moquu_downtop2,.moquu_downtop5 {
+	float:left
+}
+.moquu_downtop2 .moquu_add {
+	height:120px
+}
+.moquu_downtop2 .moquu_add img {
+	width:990px;
+	margin-top:20px;
+	height:90 float:left
+}
+.moquu_job {
+	background:#535353;
+	padding-bottom:30px;
+	float:left;
+	width:100%
+}
+.moquu_us {
+	float:left;
+	margin-top:30px
+}
+.moquu_us li {
+	padding:0 0 15px 0;
+	text-align:center;
+	color:#777;
+	font-family:"Arial","宋体"
+}
+.moquu_us li a {
+	color:#979797;
+	margin-left:4px;
+	margin-right:4px
+}
+.moquu_us .cell,.moquu_us .cell2,.moquu_us .cell3 {
+	height:260px;
+	display:inline-block;
+	float:left;
+	padding:0 10px 0 22px;
+	border-right:1px solid #3e3e3e;
+	color:#979797
+}
+.moquu_us .cell dt,.moquu_us .cell2 dt,.moquu_us .cell3 dt {
+	padding:10px 0 15px
+}
+.moquu_us .cell .titl,.moquu_us .cell2 .titl,.moquu_us .cell3 .titl {
+	color:#8c8c8c;
+	font-size:18px;
+	font-family:"微软雅黑","黑体";
+	font-weight:bold;
+	text-decoration:none
+}
+.moquu_us .cell a,.moquu_us .cell3 a {
+	color:#d0d0d0
+}
+.moquu_us .cell table,.moquu_us .cell3 table {
+	width:100%
+}
+.moquu_us .cell td,.moquu_us .cell3 td {
+	padding:0 0 10px 0
+}
+.moquu_us .bottom a {
+	color:#777
+}
+.moquu_footer {
+	background:#3f3f3f;
+	float:left;
+	width:100%
+}
+.moquu_inner {
+	float:left;
+	padding:30px 25px 0 15px;
+	overflow:hidden;
+	position:relative
+}
+.moquu_innez {
+	float:left;
+	padding:20px 25px 15px 15px;
+	overflow:hidden;
+	position:relative
+}
+.moquu_zz {
+	float:right;
+	width:158px;
+	height:60px;
+	color:#585858;
+	font-size:12px
+}
+.moquu_zz a {
+	color:#888!important
+}
+.moquu_zz .weibo {
+	width:35px;
+	height:25px;
+	display:block;
+	float:left;
+	background-position:-240px -395px;
+	margin-bottom:10px
+}
+.moquu_zz .bdpan {
+	width:29px;
+	height:25px;
+	display:block;
+	float:left;
+	background-position:-274px -396px;
+	margin-left:15px
+}
+.moquu_zz .qiniu {
+	width:55px;
+	height:23px;
+	margin-top:3px;
+	display:block;
+	float:left;
+	background-position:-165px -161px;
+	margin-left:15px
+}
+.moquu_zz .weibo:hover {
+	background-position:-240px -420px
+}
+.moquu_zz .bdpan:hover {
+	background-position:-274px -421px
+}
+.moquu_zz .qiniu:hover {
+	background-position:-165px -187px
+}
+.moquu_links {
+	margin-bottom:20px;
+	margin-top:10px;
+	float:left
+}
+.moquu_links ul {
+	list-style:none;
+	line-height:25px;
+	color:#767676!important;
+	width:940px;
+	text-align:justify
+}
+.moquu_links li {
+	display:inline
+}
+.moquu_links a {
+	color:#767676!important;
+	font-size:12px;
+	padding-right:5px
+}
+.moquu_links a:hover {
+	color:#aca8a7!important
+}
+.moquu_fnav {
+	float:left;
+	padding-top:3px
+}
+.moquu_fnav p,.moquu_fnav a {
+	color:#6e6e6e!important;
+	font-size:12px
+}
+.moquu_fnav a:hover {
+	color:#aaa!important
+}
+.moquu_fnav p.footer-links {
+	margin-bottom:15px
+}
+.designer-recom a {
+	display:block;
+	float:left;
+	width:53px;
+	height:53px;
+	border:5px solid #454545;
+	overflow:hidden;
+	margin:0 5px 5px 0;
+	box-shadow:0 0 1px #303030;
+	opacity:.7
+}
+.designer-recom img {
+	width:53px;
+	opacity:.5
+}
+.designer-recom a:hover img {
+	opacity:1
+}
+.moquu_tabs {
+	text-shadow:0 1px 0 #FFF;
+	display:inline-block;
+	color:#403f39;
+	font-size:16px;
+	clear:none;
+	font-weight:bold;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_news.jpg) center no-repeat;
+	line-height:32px;
+	height:30px;
+	text-align:center;
+	margin-top:20px;
+	width:98%
+}
+.moquu_lnav {
+	float:left;
+	height:130px;
+	background:#f6f6f6;
+	width:100%
+}
+.moquu_list {
+	float:left;
+	width:100%;
+	top:0px;
+	margin-right:auto;
+	margin-left:auto;
+	padding-bottom:10px;
+}
+.moquu_tabnf {
+	width:1200px;
+	float:left;
+	color:#989797;
+	height:30px;
+	line-height:35px
+}
+.moquu_tabnf a {
+	color:#989797
+}
+#moquu_tabn {
+	float:left
+}
+#moquu_tabn ul {
+	list-style:none
+}
+#moquu_tabn li {
+	float:left;
+	font-size:11px;
+	display:inline;
+	height:27px;
+	line-height:27px;
+	margin:0
+}
+#moquu_tabn div {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -54px no-repeat;
+	float:left;
+	height:27px;
+	width:26px
+}
+#moquu_tabn a {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -297px repeat-x;
+	color:#555;
+	float:left;
+	padding:0 8px
+}
+#moquu_tabn a:hover,#moquu_tabn a:focus {
+	color:#006db8;
+	text-decoration:none
+}
+#moquu_tabn .last .last {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -108px no-repeat;
+	width:21px
+}
+#moquu_tabn li:first-child div:first-child,#moquu_tabn .selected:first-child div:first-child {
+	width:9px
+}
+#moquu_tabn li:first-child div:first-child {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -189px no-repeat
+}
+#moquu_tabn .selected:first-child div:first-child {
+	width:9px
+}
+#moquu_tabn li:first-child div:first-child {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -189px no-repeat
+}
+#moquu_tabn .selected a {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -324px repeat-x
+}
+#moquu_tabn .selected div {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 0 no-repeat
+}
+#moquu_tabn .selected.last .last {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -135px no-repeat
+}
+#moquu_tabn .selected+li div {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -27px no-repeat
+}
+#moquu_tabn .selected:first-child div:first-child {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -243px no-repeat
+}
+#moquu_tabn .right {
+	float:right
+}
+#moquu_tabn .right li:first-child div:first-child,#moquu_tabn .right .selected:first-child div:first-child {
+	width:21px
+}
+#moquu_tabn .right li:first-child div:first-child {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -81px no-repeat
+}
+#moquu_tabn .right .last .last {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -216px no-repeat;
+	width:9px
+}
+#moquu_tabn .right .selected.last .last {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -270px no-repeat
+}
+#moquu_tabn .right .selected:first-child div:first-child {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tabs.png) 0 -162px no-repeat
+}
+.moquupages {
+	width:50px;
+	position:fixed;
+	padding:10px 0;
+	right:5px;
+	top:160px;
+	background:#1f1f1f
+}
+.moquupages ul li {
+	clear:both;
+	text-align:center;
+	line-height:30px;
+	border-bottom:1px solid #111;
+	color:#8db5d7
+}
+.moquupages ul li a {
+	clear:both;
+	color:#8db5d7;
+	display:block;
+	font-size:12px
+}
+.moquupages ul li a:hover {
+	color:#f90;
+	text-decoration:none
+}
+.moquupages ul li.thisclass,.moquupages ul li.thisclass a {
+	background-color:#000;
+	font-size:18px;
+	border-bottom:1px solid #F60;
+	color:#F60
+}
+.moquu_next {
+	width:50px;
+	height:39px;
+	display:block;
+	position:fixed;
+	top:50%;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_next.jpg) no-repeat;
+	left:10px
+}
+a.moquu_next:hover {
+	width:50px;
+	height:39px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_next2.jpg) no-repeat
+}
+.moquu_prev {
+	width:50px;
+	height:39px;
+	display:block;
+	position:fixed;
+	top:50%;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_pre.jpg) no-repeat;
+	right:0
+}
+a.moquu_prev:hover {
+	width:50px;
+	height:39px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_pre2.jpg) no-repeat
+}
+.moquu-page {
+	float:left;
+	margin:50px 0 50px 0;
+	width:100%;
+	text-align:center
+}
+.moquu-pagee {
+	float:left;
+	margin:40px 0 20px 0;
+	width:100%;
+	text-align:center
+}
+.moquu-page a,.moquu-page span,.moquu-pagee a,.moquu-pagee span {
+	display:inline-block;
+	padding:9px 12px;
+	margin:0 5px 0 0;
+	line-height:1em;
+	margin-right:2px
+}
+.moquu-page span,.moquu-pagee span {
+	padding:0
+}
+.moquu-page a,.moquu-pagee a {
+	color:#fff!important;
+	background:#595656
+}
+.moquu-page a:hover,.moquu-pagee a:hover {
+	color:#fff;
+	background:#e74987;
+	border-bottom:0
+}
+.moquu-page .current,.moquu-pagee .current {
+	color:#fff!important;
+	background:#e74987;
+	padding:9px 12px;
+	margin:0 5px 0 0
+}
+.moquu-page3 {
+	float:left;
+	margin:25px 0 25px 8px;
+	text-align:left
+}
+.moquu-page2 {
+	float:left;
+	margin:50px 0 50px 8px;
+	text-align:left
+}
+.moquu-page2 a,.moquu-page2 span {
+	display:inline-block;
+	padding:9px 12px;
+	margin:0 5px 0 0;
+	line-height:1em;
+	margin-right:2px
+}
+.moquu-page2 span {
+	padding:0
+}
+.moquu-page2 a {
+	color:#fff!important;
+	background:#595656
+}
+.moquu-page2 a:hover {
+	color:#fff;
+	background:#0da4d3;
+	border-bottom:0
+}
+.moquu-page2 .current {
+	color:#fff!important;
+	background:#c00;
+	padding:9px 12px;
+	margin:0 5px 0 0
+}
+.moquu_rrxia {
+	display:none
+}
+.moquu_rrxiam {
+	text-indent:-9999px;
+	background-position:-1px -400px;
+	width:130px;
+	height:40px;
+	float:right
+}
+.moquu_rrxiam a {
+	width:130px;
+	height:40px;
+	float:left
+}
+.moquu_rrxiax {
+	text-indent:-9999px;
+	background-position:-1px -400px;
+	width:130px;
+	height:50px;
+	float:left
+}
+.moquu_rrxiax a {
+	width:130px;
+	height:40px;
+	float:left
+}
+.moquu_copy4 {
+	float:left;
+	line-height:30px;
+	margin-top:23px;
+	color:#707070;
+	overflow:hidden;
+	white-space:nowrap;
+	-o-text-overflow:ellipsis;
+	text-overflow:ellipsis;
+	padding-right:10px
+}
+.moquu_rrsk {
+	margin:10px 0;
+	float:left
+}
+.moquu_rrskz {
+	float:left
+}
+.moquu_rrskzx {
+	float:left;
+	padding-top:20px;
+	border-right:1px #eee solid
+}
+.moquu_date {
+	float:left;
+	border-bottom:1px #eee solid;
+	padding-left:20px;
+	padding-bottom:25px
+}
+.moquu_date .date {
+	float:left;
+	width:60px
+}
+.moquu_rrbt {
+	padding-top:0;
+	height:50px;
+	float:left
+}
+.moquu_rrbt .css {
+	height:auto;
+	float:left
+}
+.moquu_zpp {
+	padding-top:0;
+	height:45px;
+	float:left
+}
+.moquu_zpz {
+	float:left;
+	width:400px
+}
+.moquu_zpy {
+	float:right;
+	width:470px
+}
+.moquu_mz {
+	float:left;
+	font-size:18px;
+	margin-top:5px;
+	line-height:30px;
+	font-weight:bold;
+	color:#428bd1;
+	font-family:Verdana,"微软雅黑"
+}
+.moquu_mz h1 {
+	font-size:20px;
+	margin-top:-5px;
+	font-weight:600;
+	height:35px;
+	color:#333
+}
+.moquu_mz a {
+	font-size:12px;
+	font-weight:normal
+}
+.moquu_rrbt .css span {
+	font-size:12px;
+	font-family:Verdana;
+	color:#adadad;
+	font-weight:normal
+}
+.moquu_icopsd {
+	position:absolute;
+	left:0;
+	top:0;
+	display:block;
+	width:54px;
+	height:64px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_icopsd.png) 0 10px no-repeat;
+	_background:url(https://www.qijishow.com/down/assets/app/moquu_icopsd.gif);
+	z-index:1
+}
+.moquu_icoyc {
+	position:absolute;
+	left:0;
+	top:0;
+	display:block;
+	width:54px;
+	height:64px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_icoyc.png) 0 10px no-repeat;
+	_background:url(https://www.qijishow.com/down/assets/app/moquu_icoyc.gif);
+	z-index:1
+}
+.moquu_icotop {
+	position:absolute;
+	left:0;
+	top:0;
+	display:block;
+	width:54px;
+	height:64px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_icotop.png) 0 10px no-repeat;
+	_background:url(https://www.qijishow.com/down/assets/app/moquu_icotop.gif);
+	z-index:1
+}
+.moquu_icoshop {
+	position:absolute;
+	left:0;
+	top:0;
+	display:block;
+	width:54px;
+	height:64px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_icoshop.png) 0 10px no-repeat;
+	_background:url(https://www.qijishow.com/down/assets/app/moquu_icoshop.gif);
+	z-index:1
+}
+.moquu_weibo {
+	line-height:30px;
+	height:auto;
+	width:120px;
+	float:right
+}
+.moquu_rrbt .moquu_rrsc {
+	float:right;
+	font-size:14px;
+	background-color:#9b9b9b;
+	color:#fff;
+	display:block;
+	height:40px;
+	line-height:38px;
+	width:120px;
+	cursor:pointer
+}
+.moquu_rrbt .moquu_rrsc a {
+	font-size:14px;
+	color:#fff
+}
+.moquu_rrbt .moquu_rrsc:hover {
+	background-color:silver
+}
+.moquu_rrbt .moquu_rrsc i {
+	width:18px;
+	height:15px;
+	display:block;
+	float:left;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_xin.png);
+	margin:12px 10px 0 12px
+}
+.moquu_rrtd {
+	float:right;
+	font-size:16px;
+	background-color:#9b9b9b;
+	color:#fff;
+	display:block;
+	height:40px;
+	line-height:40px;
+	padding-left:20px;
+	padding-right:20px;
+	cursor:pointer
+}
+.moquu_rrtd a {
+	font-size:15px;
+	color:#fff
+}
+.moquu_rrtd:hover {
+	background-color:#3884c6
+}
+.moquu_rrtd i {
+	width:18px;
+	height:15px;
+	display:block;
+	float:left;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_xin.png);
+	margin:12px 10px 0 10px
+}
+.moquu_rrbt .moquu_rrlx {
+	float:left;
+	margin-left:10px;
+	width:110px;
+	margin-top:10px
+}
+.moquu_rrtt {
+	font-size:12px;
+	float:right;
+	text-align:right;
+	margin-right:20px;
+	color:#c4c4c4
+}
+.moquu_rrtt a {
+	color:#c4c4c4
+}
+.moquu_rrtp {
+	text-align:center;
+	position:relative;
+	z-index:2;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_loading.gif) center center no-repeat;
+	float:left
+}
+.moquu_rrtp p {
+	line-height:25px
+}
+.moquu_rrsk {
+	margin-bottom:20px;
+	background:#fff
+}
+.moquu_comment {
+	float:left
+}
+#comment {
+	float:left;
+	margin-bottom:25px
+}
+.moquu_iconb {
+	float:left;
+	margin-top:10px
+}
+.moquu_iconbz {
+	float:left;
+	margin-left:15px;
+	margin-top:5px;
+	font-size:14px;
+	width:100px
+}
+.moquu_iconby {
+	float:right;
+	text-align:right;
+	color:#666;
+	margin-top:5px;
+	font-size:14px;
+	width:450px
+}
+.moquu_iconbox {
+	overflow:hidden;
+	margin-bottom:10px;
+	font-size:14px;
+	margin-left:5px;
+	width:400px;
+	float:left
+}
+.share-bar-btnn {
+	padding:6px 0 2px;
+	float:none!important
+}
+#moquu_iconb {
+	float:left;
+	width:34px;
+	margin-left:10px;
+	margin-top:-5px
+}
+#moquu_iconbox {
+	overflow:hidden;
+	margin-bottom:15px;
+	font-size:14px;
+	width:34px
+}
+.share-bar-btn {
+	padding:6px 0 2px;
+	float:left
+}
+.share-bar-btn a,.share-bar-btn .bds_more {
+	display:block;
+	width:34px!important;
+	height:25px!important;
+	margin:0 auto 5px!important;
+	padding:0!important;
+	float:none!important
+}
+#bdshare a:hover {
+	opacity:.5!important;
+	filter:alpha(opacity=50)!important
+}
+.share-bar-btn .bds_huaban,.share-bar-btnn .bds_huaban {
+	background:url(https://www.qijishow.com/moquu/img/moquu_hb.jpg) no-repeat!important
+}
+.share-bar-btn .bds_tsina,.share-bar-btnn .bds_tsina {
+	background:url(https://www.qijishow.com/moquu/img/moquu_wb.jpg) no-repeat!important
+}
+.share-bar-btn .bds_qzone,.share-bar-btnn .bds_qzone {
+	background:url(https://www.qijishow.com/moquu/img/moquu_qz.jpg) no-repeat!important
+}
+.share-bar-btn .bds_tqq,.share-bar-btnn .bds_tqq {
+	background:url(https://www.qijishow.com/moquu/img/moquu_qt.jpg) no-repeat!important
+}
+.share-bar-btn .bds_twi,.share-bar-btnn .bds_twi {
+	background:url(https://www.qijishow.com/moquu/img/moquu_tw.jpg) no-repeat!important
+}
+.share-bar-btn .bds_fbook,.share-bar-btnn .bds_fbook {
+	background:url(https://www.qijishow.com/moquu/img/moquu_fb.jpg) no-repeat!important
+}
+.share-bar-btn .bds_renren,.share-bar-btnn .bds_renren {
+	background:url(https://www.qijishow.com/moquu/img/moquu_rr.jpg) no-repeat!important
+}
+.share-bar-btn .bds_baidu,.share-bar-btnn .bds_baidu {
+	background:url(https://www.qijishow.com/moquu/img/moquu_bs.jpg) no-repeat!important
+}
+.share-bar-btn .bds_sqq,.share-bar-btnn .bds_sqq {
+	background:url(https://www.qijishow.com/moquu/img/moquu_qq.jpg) no-repeat!important
+}
+.share-bar-btn .bds_qq,.share-bar-btnn .bds_qq {
+	background:url(https://www.qijishow.com/moquu/img/moquu_sq.jpg) no-repeat!important
+}
+.share-bar-btn .bds_more,.share-bar-btnn .bds_more {
+	background:url(https://www.qijishow.com/moquu/img/moquu_gd.jpg) no-repeat!important
+}
+.share-bar-btn .bds_weixin,.share-bar-btnn .bds_weixin {
+	background:url(https://www.qijishow.com/moquu/img/moquu_weixin.jpg) no-repeat!important
+}
+.second {
+	width:34px;
+	height:40px;
+	float:left;
+	margin-top:5px;
+	text-indent:-9999px;
+	background:url(https://www.qijishow.com/moquu/img/moquu_zoom.jpg) no-repeat!important
+}
+.moquu_tags {
+	height:85px;
+	float:left;
+	margin-top:18px;
+	padding-left:20px
+}
+.moquu_tags p {
+	line-height:30px;
+	font-size:14px;
+	padding-left:20px;
+	color:#cbcbcb
+}
+.moquu_tags h3,.moquu_tags h3 a {
+	height:32px;
+	font-size:14px;
+	color:#535353
+}
+.moquu_tags h3,.moquu_tags h3 a:hover {
+	color:#e74987
+}
+.moquu_tags ul li {
+	display:block;
+	float:left;
+	margin-right:5px;
+	margin-bottom:5px
+}
+.moquu_tags ul li a {
+	display:block;
+	float:left;
+	background:#ececec;
+	height:27px;
+	line-height:27px;
+	padding:0 12px
+}
+.moquu_tags ul li a:hover {
+	background:#65686a;
+	color:#fff
+}
+.moquu_tags ul li a:hover .sca {
+	color:#fff
+}
+.moquu_rr {
+	float:left;
+	font-size:14px;
+	margin-top:9px
+}
+.i-news {
+	margin-top:20px;
+	margin-left:-9px;
+	width:9px;
+	height:9px;
+	float:right;
+	background:url(https://www.qijishow.com/moquu/img/news.jpg);
+}
+.moquu_add {
+	height:105px
+}
+.moquu_ad2 {
+	float:left;
+	margin-bottom:30px
+}
+.moquu_ad3 {
+	float:left;
+	margin-bottom:1px;
+	margin-top:10px
+}
+.moquu_rry {
+	border:1px solid #e6e5e5;
+	background:#f7f7f7
+}
+.moquu_rry .moquu_rryb {
+	padding:10px 0 10px 10px;
+	border:1px solid #fff
+}
+#sidebar {
+	float:left;
+	font-size:14px;
+	margin-top:9px
+}
+.moquu_rrxt h2 {
+	font-weight:normal;
+	font-size:20px
+}
+.moquu_rrxt ul {
+	float:left;
+	margin-top:8px
+}
+.moquu_rrxt li {
+	margin:0 5px 5px 0;
+	background-color:#fff;
+	background-color:rgba(255,255,255,0.8)
+}
+.moquu_rrxt p {
+	margin:0 5px 5px 0;
+	background-color:#fff;
+	background-color:rgba(255,255,255,0.8)
+}
+.moquu_rrxt li,.moquu_rrxt li a,.moquu_rrxt li span {
+	float:left;
+	width:120px;
+	height:90px;
+	overflow:hidden
+}
+.moquu_rrxt li a {
+	background-color:#333
+}
+.moquu_rrxt li a:hover img {
+	filter:alpha(opacity=50);
+	-moz-opacity:.5;
+	opacity:.5;
+	-webkit-transition:all .4s ease-out;
+	-moz-transition:all .4s ease-out;
+	-o-transition:all .4s ease-out
+}
+.moquupages {
+	width:50px;
+	position:fixed;
+	padding:10px 0;
+	right:5px;
+	top:160px;
+	background:#1f1f1f
+}
+.moquupages ul li {
+	clear:both;
+	text-align:center;
+	line-height:30px;
+	border-bottom:1px solid #111;
+	color:#8db5d7
+}
+.moquupages ul li a {
+	clear:both;
+	color:#8db5d7;
+	display:block;
+	font-size:12px
+}
+.moquupages ul li a:hover {
+	color:#f90;
+	text-decoration:none
+}
+.moquupages ul li.thisclass,.moquupages ul li.thisclass a {
+	background-color:#000;
+	font-size:18px;
+	border-bottom:1px solid #F60;
+	color:#F60
+}
+.moquu_next {
+	width:32px;
+	height:32px;
+	display:block;
+	position:fixed;
+	top:50%;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) 0 0;
+	left:10px
+}
+a.moquu_next:hover {
+	width:32px;
+	height:32px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) 0 -31px no-repeat
+}
+.moquu_prev {
+	width:32px;
+	height:32px;
+	display:block;
+	position:fixed;
+	top:50%;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -32px 0;
+	right:10px
+}
+a.moquu_prev:hover {
+	width:32px;
+	height:32px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -32px -31px
+}
+.moquu_dsl {
+	float:left;
+	margin-top:5px
+}
+.moquu_dslb {
+	float:left
+}
+.moquu_dslb dd {
+	height:153px;
+	float:left;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_ico20.gif) 98% 100px no-repeat #fff;
+	border:2px solid #fff;
+	margin-bottom:10px
+}
+.moquu_dslb dd:hover {
+	border:2px solid #afafaf
+}
+.moquu_dslb dd a {
+	color:#666;
+	height:115px;
+	cursor:pointer;
+	display:block;
+	margin:22px 0 0 22px
+}
+.moquu_dslb dd a img {
+	float:left
+}
+.moquu_dslb dd a div.fl {
+	margin:0 20px 0 20px
+}
+.moquu_dslb dd a h3 {
+	font-size:24px;
+	color:#000;
+	line-height:24px;
+	margin-bottom:6px
+}
+.moquu_dslb dd a p {
+	height:36px;
+	line-height:22px;
+	padding-bottom:6px;
+	overflow:hidden
+}
+.moquu_dslb dd a em {
+	width:60px;
+	font-family:Impact;
+	color:#e0e0e0;
+	font-size:39px;
+	text-align:center;
+	line-height:39px;
+	font-style:normal
+}
+.moquu_dslb dd a em span {
+	font-size:17px;
+	display:block;
+	line-height:14px
+}
+.moquu_dstp {
+	float:left;
+	background:#e2e1e1
+}
+.moquu_boxt {
+	background:#595656;
+	color:#fff;
+	text-align:center;
+	font-size:14px;
+	height:40px;
+	line-height:40px;
+	margin-top:15px
+}
+.moquu_htop {
+	float:left;
+	margin-bottom:40px
+}
+#moquu_nhao {
+	height:831px;
+	margin:0 auto;
+	border:2px #e6e5e5 solid;
+	background-color:#fff
+}
+#moquu_hao {
+	height:600px;
+	margin:0 auto;
+	border:2px #e6e5e5 solid;
+	background-color:#fff
+}
+#moquu_hao li {
+	float:left;
+	height:40px;
+	line-height:40px;
+	color:#0070b1;
+	font-size:14px;
+	display:block
+}
+.moquu_hao_left {
+	float:left
+}
+.moquu_hao_left a {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haoico.gif) no-repeat;
+	color:#666;
+	width:56px;
+	height:38px;
+	background-color:#f7f7f7;
+	display:block;
+	border-bottom:1px solid #ebebeb;
+	border-top:1px solid #fff;
+	border-right:1px solid #e6e5e5;
+	float:left;
+	padding-left:63px
+}
+.moquu_hao_left a:hover {
+	background-color:#faf9f9;
+	border-left:3px #e6e5e5 solid;
+	width:53px;
+	padding-left:63px
+}
+.moquu_hao_left_bottom a {
+	border-bottom:0;
+	height:39px
+}
+.m15 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 4px no-repeat
+}
+.m15h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px 4px no-repeat #fff
+}
+.m13 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -50px no-repeat
+}
+.m13h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -50px no-repeat #fff
+}
+.m17 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -100px no-repeat
+}
+.m17h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -100px no-repeat #fff
+}
+.m14 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -140px no-repeat
+}
+.m14h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -140px no-repeat #fff
+}
+.m26 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -180px no-repeat
+}
+.m26h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -180px no-repeat #fff
+}
+.m19 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -220px no-repeat
+}
+.m19h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -220px no-repeat #fff
+}
+.m18 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -260px no-repeat
+}
+.m18h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -260px no-repeat #fff
+}
+.m20 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -300px no-repeat
+}
+.m20h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -300px no-repeat #fff
+}
+.m23 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -340px no-repeat
+}
+.m23h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -340px no-repeat #fff
+}
+.m21 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -380px no-repeat
+}
+.m21h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -380px no-repeat #fff
+}
+.m24 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -420px no-repeat
+}
+.m24h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -420px no-repeat #fff
+}
+.m25 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -460px no-repeat
+}
+.m25h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -460px no-repeat #fff
+}
+.m22 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -500px no-repeat
+}
+.m22h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -500px no-repeat #fff
+}
+.m27 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -540px no-repeat
+}
+.m27h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -540px no-repeat #fff
+}
+.m28 {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) 0 -580px no-repeat
+}
+.m28h {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_nhao.png) -143px -580px no-repeat #fff
+}
+.moquu_nhlbx {
+	width:1196px;
+	float:left;
+	height:51px;
+	border-right:1px solid #ebebeb;
+	border-top:1px solid #ebebeb;
+	background:#f7f7f7
+}
+.moquu_nhlbx li {
+	float:left;
+	text-align:center;
+	width:85px;
+	height:50px;
+	line-height:50px
+}
+.moquu_nhlbx li a {
+	font-size:15px;
+	width:85px;
+	float:left;
+	color:#858484
+}
+.moquu_nhlbx li a:hover {
+	color:#666;
+	width:85px;
+	float:left;
+	border-bottom:1px solid #3da2e3
+}
+.moquu_nhlbx li:hover {
+	color:#666;
+	width:85px;
+	float:left;
+	border-bottom:1px solid #3da2e3
+}
+.moquu_nhlbx li a.mbg {
+	color:#3da2e3;
+	font-weight:bold;
+	width:85px;
+	float:left;
+	border-bottom:1px solid #3da2e3
+}
+.moquu_nhlb {
+	width:170px;
+	float:left;
+	height:780px;
+	border-right:1px solid #ebebeb;
+	border-top:1px solid #ebebeb;
+	background:#f7f7f7
+}
+.moquu_nhlb li {
+	float:left;
+	border-bottom:1px solid #ebebeb;
+	border-top:1px solid #FFF;
+	padding-left:75px;
+	width:95px;
+	height:50px;
+	line-height:50px
+}
+.moquu_nhlb li a {
+	font-size:15px;
+	margin-left:-75px;
+	padding-left:75px;
+	width:86px;
+	float:left;
+	color:#858484
+}
+.moquu_nhlb li:hover {
+	color:#666;
+	width:65px;
+	margin-left:10px;
+	padding-left:65px
+}
+.moquu_nhaoye {
+	float:left
+}
+.moquu_nhlb li a.mbg {
+	color:#fff;
+	background:#3da2e3;
+	float:left;
+	margin-left:-35px;
+	padding-left:35px;
+	width:96px;
+	margin-top:-1px
+}
+.moquu_nhaoye {
+	float:left
+}
+.moquu_haoy li {
+	list-style-type:none
+}
+.moquu_haoye {
+	width:1198px;
+	height:auto;
+	border-top:1px #ebeaea solid;
+	overflow:hidden
+}
+.zh_infotitle {
+	width:1125px;
+	color:#666;
+	height:39px;
+	line-height:39px;
+	background-color:#f7f7f7;
+	border-bottom:1px #e6e5e5 solid;
+	text-indent:20px
+}
+.moquu_haoye li {
+	width:170px;
+	*width:169px;
+	font-size:12px;
+	height:129px;
+	border:1px solid #e6e5e5;
+	border-left:0;
+	border-top:0;
+	float:left
+}
+.moquu_haoye li a {
+	font-size:12px;
+	height:89px;
+	line-height:18px;
+	color:#999;
+	display:block;
+	padding:21px 19px 19px 19px;
+	text-decoration:none
+}
+.moquu_haoye li a span {
+	width:130px;
+	*width:129px;
+	font-size:14px;
+	cursor:pointer;
+	height:32px;
+	overflow:hidden;
+	display:block;
+	color:#666
+}
+.moquu_haoye li a span.moquu_haom {
+	float:left;
+	font-size:14px
+}
+.moquu_haoye li a span.moquu_haomnew {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haonew.gif) 0 4px no-repeat;
+	font-size:14px;
+	padding-left:18px;
+	color:#5dad2c
+}
+.moquu_haoye li a span.moquu_haomhot {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haohot.gif) 0 4px no-repeat;
+	font-size:14px;
+	padding-left:18px;
+	color:#ff8901
+}
+.moquu_haoye li a:hover {
+	background-color:#f6f6f6
+}
+.moquu_haoye li.showclose a {
+	background-color:#eff7fe
+}
+.moquu_haoye li.showclose a:hover {
+	color:#0070b1
+}
+.moquu_sel a {
+	background-position:-158px -760px;
+	background-color:#faf9f9;
+	border-left:3px #e6e5e5 solid;
+	width:53px;
+	padding-left:63px
+}
+.moquu_hao_rigth {
+	float:left;
+	border-bottom:1px #f4f3f3 solid;
+	height:39px;
+	padding-left:20px
+}
+.moquu_hao_rigth:hover {
+	background-color:#faf9f9
+}
+.moquu_hao_rigth li {
+	float:left;
+	line-height:38px
+}
+.moquu_hao_rigth li a {
+	float:left;
+	font-size:12px
+}
+.moquu_hao_rigth li.moer {
+	text-align:left
+}
+.moquu_hao_rigth li.moer a {
+	font-family:"宋体";
+	color:#b0afaf
+}
+.haorr {
+	float:left;
+	overflow:hidden;
+	word-break:keep-all;
+	border-right:1px #f4f3f3 solid
+}
+.moquu_hao_rigth_bottom {
+	border-bottom:0;
+	height:40px
+}
+.moquu_haobot {
+	line-height:40px
+}
+.moquu_haobot a {
+	color:#0070b1;
+	height:39px;
+	overflow:hidden;
+	background-color:#f7f7f7;
+	display:block;
+	float:left;
+	text-align:center;
+	border-right:1px solid #ebebeb;
+	border-left:1px solid #ebebeb;
+	border-bottom:1px solid #ebebeb;
+	margin:0 auto;
+	padding:0
+}
+.moquu_haobot a:hover {
+	background-color:#faf9f9;
+	border-top:2px #e6e5e5 solid;
+	font-weight:bold;
+	height:37px
+}
+.moquu_haobot_right a {
+	border-right:0
+}
+.moquu_haobot_left a {
+	border-left:0;
+	border-right:1px solid #ebebeb
+}
+.moquu_haobot {
+	float:left;
+	padding-top:5px;
+	padding-bottom:10px;
+	_padding-top:5px;
+	_padding-bottom:10px;
+	border-right:1px #ebebeb solid
+}
+.moquu_haobot li {
+	float:left;
+	text-align:center;
+	line-height:30px
+}
+.moquu_haobot li a {
+	color:#666;
+	font-size:12px
+}
+.moquu_haobot:hover {
+	background-color:#faf9f9
+}
+.main_bottom_right {
+	border:0
+}
+.moquu_haox {
+	float:left;
+	font-size:12px
+}
+.moquu_haoxnew {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haonew.gif) 0 15px no-repeat
+}
+.moquu_haoxnew a {
+	color:#5dad2c
+}
+.moquu_haoxhot {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haohot.gif) 0 15px no-repeat
+}
+.moquu_haoxhot a {
+	color:#ff8901
+}
+#SLB-Wrapper {
+	margin:.5em 0;
+	margin:auto;
+	font-family:Verdana;
+	text-align:left;
+	position:absolute
+}
+#SLB-Wrapper #SLB-Background {
+	position:absolute;
+	left:7px;
+	top:7px;
+	float:left
+}
+#SLB-Wrapper #SLB-Top {
+	background:transparent no-repeat scroll 100% 0;
+	height:28px;
+	margin:0 0 0 18px
+}
+#SLB-Wrapper #SLB-Top a {
+	float:right;
+	display:inline;
+	padding:0;
+	margin:5px 10px;
+	width:41px;
+	height:16px;
+	text-decoration:none
+}
+#SLB-Wrapper #SLB-Top a:hover {
+	background-position:0 -16px
+}
+#SLB-Wrapper #SLB-Top img {
+	float:right;
+	border:0;
+	margin:6px 10px;
+	width:41px;
+	height:16px
+}
+#SLB-Wrapper #SLB-Top div {
+	background:transparent no-repeat scroll 0 0;
+	font-size:0;
+	height:28px;
+	left:-18px;
+	line-height:0;
+	position:relative;
+	width:18px
+}
+#SLB-Wrapper #SLB-Bottom {
+	background:transparent no-repeat scroll 0 43%;
+	height:20px;
+	margin:0 18px 0 0
+}
+#SLB-Wrapper #SLB-Bottom #SLB-BottomRight {
+	background:transparent no-repeat scroll 100% 43%;
+	font-size:0;
+	height:20px;
+	right:-18px;
+	line-height:0;
+	position:relative;
+	width:100%;
+	float:right
+}
+#SLB-Wrapper #SLB-Bottom.SLB-bbnav,#SLB-Wrapper #SLB-Bottom.SLB-bbnav #SLB-BottomRight {
+	height:52px
+}
+#SLB-Wrapper #SLB-Bottom.SLB-bbnav {
+	background-position:0 100%
+}
+#SLB-Wrapper #SLB-Bottom.SLB-bbnav #SLB-BottomRight {
+	background-position:100% 100%
+}
+#SLB-Wrapper #SLB-Contenido {
+	border-left:7px solid #000;
+	border-right:7px solid #000
+}
+#SLB-Wrapper #SLB-Bottom #SLB-Navegador {
+	font-size:11px;
+	color:#fff;
+	height:30px;
+	border-left:0;
+	border-right:0;
+	padding:10px 0;
+	margin:0;
+	line-height:11px;
+	float:left;
+	width:100%
+}
+#SLB-Wrapper #SLB-Navegador #SLB-Right,#SLB-Wrapper #SLB-Navegador #SLB-Left {
+	display:inline;
+	padding:0;
+	margin:0;
+	width:26px;
+	height:26px;
+	text-decoration:none
+}
+#SLB-Wrapper #SLB-Navegador #SLB-Right {
+	background-position:26px 0;
+	margin:0 18px 0 10px;
+	float:right
+}
+#SLB-Wrapper #SLB-Navegador #SLB-Right:hover {
+	background-position:26px -26px
+}
+#SLB-Wrapper #SLB-Navegador #SLB-Left {
+	background-position:52px 0;
+	margin-right:10px;
+	float:left
+}
+#SLB-Wrapper #SLB-Navegador #SLB-Left:hover {
+	background-position:52px -26px
+}
+#SLB-Wrapper #SLB-Navegador strong {
+	display:block;
+	padding-top:5px
+}
+.moquu_utop {
+	float:left;
+	margin-top:10px
+}
+.moquu_utopp {
+	float:left;
+	margin-left:9px
+}
+.moquu_utoppx {
+	float:left;
+	margin-top:10px
+}
+.moquu_wzrx {
+	float:left;
+	background:#f9f9f9;
+	border-right:1px #eee solid
+}
+.moquu_wzrr {
+	float:left;
+	margin-top:10px;
+	background:#f9f9f9
+}
+.moquu_wtox {
+	float:left;
+	height:58px
+}
+.moquu_wtop {
+	float:left;
+	height:40px;
+	border-bottom:1px solid #e3e2e2
+}
+.moquu_wtop h1 {
+	font-size:18px;
+	color:#444
+}
+.moquu_wtop p {
+	color:#999;
+	padding-top:5px
+}
+.moquu_uedx h1,.moquu_uedx h2,.moquu_uedx h3,.moquu_uedx h4 {
+	font-weight:bold;
+	font-size:18px;
+	padding:15px 0 15px 0
+}
+.moquu_uedx {
+	float:left;
+	text-align:left;
+	background:#fefefe;
+	font-size:16px;
+	line-height:25px
+}
+.moquu_uedr {
+	float:left;
+	padding:20px 15px 20px 20px;
+	background:#fefefe;
+	font-size:14px
+}
+.moquu_uedr p a img {
+	clear:both;
+	display:block;
+	margin:auto
+}
+.moquu_uedx p img {
+	display:block;
+	clear:both;
+	margin-right:auto;
+	margin-left:auto
+}
+.moquu_uedx a {
+	color:#e74987;
+	font-size:16px
+}
+.moquu_ued {
+	float:left
+}
+.moquu_ued .moquu_ue {
+	overflow:hidden;
+	clear:both;
+	float:left;
+	height:120px;
+	padding:20px 0;
+	border-bottom:1px solid #EEE;
+	color:#aaa
+}
+.color2 {
+	background:#fefefe
+}
+.color1 {
+	background:#fbfbfb
+}
+.moquu_pimg {
+	width:164px;
+	float:left;
+	margin-right:10px;
+	margin-bottom:5px;
+	margin-left:20px;
+	display:inline
+}
+.moquu_pimg img {
+	width:160px;
+	height:115px;
+	display:block;
+	padding:1px;
+	border:1px solid #EEE
+}
+.moquu_pimg:hover img {
+	border:1px solid #e9e9e9;
+	opacity:.8
+}
+.moquu_pimg2 {
+	float:left;
+	margin-bottom:5px
+}
+.moquu_pimg3 {
+	float:left
+}
+.moquubtr {
+	float:left;
+	text-align:center;
+	font-size:14px;
+	margin-top:15px
+}
+.moquu_ptitle {
+	overflow:hidden;
+	height:32px;
+	float:left;
+	margin-top:5px;
+	margin-left:2px;
+	font-size:16px;
+	color:#F00
+}
+.moquu_ptitle a {
+	font-size:16px;
+	color:#666
+}
+.moquu_ptitle a:hover {
+	font-size:16px;
+	color:#e74987
+}
+.moquu_ptitle span a {
+	font-size:12px;
+	padding-left:5px;
+	font-weight:normal;
+	color:#999
+}
+.moquu_ptitle span a:hover {
+	font-size:12px;
+	padding-left:5px;
+	font-weight:normal;
+	color:#e74987
+}
+.moquu_small {
+	float:left;
+	color:#555;
+	margin:5px 0 5px 0
+}
+.moquu_small a {
+	float:left;
+	padding-left:5px;
+	padding-right:30px;
+	color:#999
+}
+.moquu_small a:hover {
+	color:#006ab8
+}
+.moquu_small span {
+	float:left;
+	padding-left:5px;
+	padding-right:30px;
+	color:#999
+}
+.moquu_small .tx {
+	float:left;
+	width:15px;
+	height:16px;
+	background-position:-173px 1px
+}
+.moquu_small .sj {
+	float:left;
+	width:15px;
+	height:16px;
+	background-position:-173px -14px
+}
+.moquu_small .see {
+	float:left;
+	width:17px;
+	height:16px;
+	background-position:-188px 2px
+}
+.moquu_small .lm {
+	float:left;
+	width:15px;
+	height:16px;
+	background-position:-210px 1px
+}
+.intro {
+	color:#c8c8c8;
+	float:left;
+	margin-top:8px;
+	line-height:22px;
+	margin-left:2px;
+	font-size:14px
+}
+.moquu_copy {
+	float:right;
+	text-align:right;
+	height:25px;
+	margin-top:-20px
+}
+.moquu_copy2 {
+	float:right;
+	text-align:right;
+	height:25px;
+	margin-top:10px
+}
+.moquu_copy3 {
+	float:left;
+	color:#CCC;
+	height:35px;
+	margin-top:10px
+}
+.moquu_ty {
+	padding:10px;
+	background:#fff;
+	float:left;
+	margin-bottom:30px;
+	margin-top:10px;
+	border:1px #eee solid
+}
+.moquu_tyy {
+	float:left;
+	overflow:hidden
+}
+.moquu_tyy h1 {
+	display:block;
+	color:#333;
+	padding-top:15px;
+	padding-left:15px;
+	line-height:35px;
+	font-size:22px;
+	margin:0 5px
+}
+.moquu_tyy h1 em {
+	font-size:14px;
+	font-style:normal;
+	color:#888
+}
+.moquu_tyy h2 {
+	display:block;
+	color:#333;
+	padding-top:15px;
+	padding-left:15px;
+	line-height:35px;
+	font-size:22px
+}
+.moquu_tyy h2 em {
+	font-size:14px;
+	font-style:normal;
+	color:#888
+}
+.moquu_tyy h3 {
+	display:block;
+	color:#333;
+	padding-top:15px;
+	padding-left:15px;
+	line-height:35px;
+	font-size:22px
+}
+.moquu_tyy h3 em {
+	float:right;
+	margin-right:20px;
+	font-family:宋体;
+	font-size:14px;
+	font-style:normal;
+	color:#888
+}
+.moquu_tyy .moquu_conx {
+	color:#666;
+	line-height:28px;
+	margin:15px 20px;
+	padding:12px 0 20px;
+	border-top:1px dotted #EEE;
+	font-size:14px
+}
+.moquu_tyy .moquu_con {
+	color:#666;
+	line-height:28px;
+	margin:15px 20px;
+	padding:22px 0 20px;
+	border-top:1px dotted #EEE;
+	border-bottom:1px solid #eee;
+	font-size:14px
+}
+.moquu_tyy .moquu_conzz {
+	color:#666;
+	line-height:28px;
+	margin:15px 20px;
+	padding:22px 0 20px;
+	border-top:1px dotted #EEE;
+	border-bottom:1px solid #eee;
+	font-size:16px
+}
+.moquu_tyy .moquu_con img {
+	display:block;
+	margin:10px auto
+}
+.moquu_tyy .moquu_con hr {
+	height:1px;
+	border:0;
+	border-top:1px dashed #ddd;
+	float:left;
+	margin:25px 0 10px 0
+}
+.moquu_tyy .moquu_con a:hover {
+	color:#000
+}
+.moquu_tyy .moquu_con a {
+	font-size:13px
+}
+.moquu_tytag {
+	background:#fff;
+	float:left;
+	border:1px #eee solid
+}
+#moquu_tyr {
+	width:280px;
+	float:left;
+	margin-top:10px
+}
+#moquu_tyrbox {
+	background:#fff;
+	border:1px solid #EEE;
+	overflow:hidden;
+	margin-bottom:15px;
+	font-size:14px;
+	width:278px
+}
+.ds-comments-info,.ds-powered-by,.wc_foot,.none {
+	display:none
+}
+.tuyiyi {
+	background:#f1f1f1;
+	text-align:center;
+	padding-top:20px;
+	line-height:60px;
+	height:75px;
+	width:100%;
+	float:left;
+	margin-bottom:20px
+}
+#moquu_wxin_img {
+	width:270px;
+	height:355px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -1px -482px no-repeat;
+	position:fixed;
+	right:60px;
+	bottom:90px;
+	cursor:pointer;
+	display:none;
+	_position:absolute;
+	_bottom:auto;
+	_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));
+	_margin-bottom:10px
+}
+#content {
+	overflow:hidden;
+	padding-bottom:45px;
+	margin:0 auto;
+	margin-top:20px
+}
+.moquu_zonet {
+	height:265px;
+	margin:0 auto
+}
+.moquu_zonez {
+	height:80px;
+	padding:15px 20px 15px 20px;
+	float:left;
+	margin-top:155px;
+	background:url(https://www.qijishow.com/down/assets/app/close.png)
+}
+.moquu_zonezz {
+	float:left;
+	width:100px
+}
+.moquu_zonezy {
+	float:left;
+	color:#FFF
+}
+.moquu_zonezy h1 {
+	float:left;
+	font-size:28px;
+	padding-right:10px
+}
+.moquu_zonezy span {
+	line-height:47px;
+	color:#ebeaea;
+	float:left
+}
+.moquu_zonezy p {
+	font-family:Georgia,"Times New Roman",Times,serif;
+	float:left;
+	line-height:42px;
+	font-size:20px;
+	color:#ebeaea
+}
+.moquu_zonezr {
+	width:860px;
+	float:left;
+	color:#f4f4f4
+}
+.moquu_zonesx {
+	float:left;
+	border:#068a32 1px solid;
+	background:#093;
+	line-height:26px;
+	padding-left:10px;
+	padding-right:10px;
+	color:#FFF
+}
+.moquu_zonesx a {
+	color:#FFF
+}
+.moquu_zonesc {
+	float:left;
+	border:#e0430e 1px solid;
+	background:#F63;
+	line-height:26px;
+	padding-left:10px;
+	padding-right:10px;
+	color:#FFF
+}
+.moquu_zonesc a {
+	color:#FFF
+}
+.moquu_zonezp {
+	float:left;
+	border:#639 1px solid;
+	background:#63C;
+	line-height:26px;
+	padding-left:10px;
+	padding-right:10px;
+	color:#FFF
+}
+.moquu_zonezp a {
+	color:#FFF
+}
+#postlist {
+	width:560px;
+	float:left;
+	padding:30px 30px 30px 20px
+}
+#sns-feeds {
+	padding-bottom:20px;
+	border-bottom:1px solid #eee
+}
+#sns-feeds li {
+	display:block;
+	float:left;
+	margin-right:5px
+}
+#sns-feeds li a {
+	display:block;
+	line-height:22px;
+	padding:0 10px;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	-o-border-radius:2px;
+	border-radius:2px
+}
+#sns-feeds li.current a {
+	color:#fff;
+	background-color:#6bb5eb
+}
+#single {
+	position:relative;
+	-moz-box-shadow:0 1px 3px rgba(0,0,0,.08);
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,.08);
+	box-shadow:0 1px 3px rgba(0,0,0,.08);
+	background-color:#fafafa;
+	border:1px solid #dedede
+}
+#content-wrapper {
+	padding-right:300px
+}
+#single-content {
+	float:left;
+	width:700px;
+	padding:20px;
+	border-right:1px solid #dedee2;
+	background-color:#fff;
+	min-height:440px
+}
+.bd {
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto
+}
+.clx:after,.menu:after {
+	clear:both;
+	display:block;
+	visibility:hidden;
+	height:0;
+	content:"";
+	font-size:0;
+	line-height:0
+}
+#collect-bar {
+	background-color:#eee;
+	padding:0 20px;
+	border-bottom:1px solid #dedede
+}
+#collect-bar ul li,#collect-bar ul li a {
+	display:block
+}
+#collect-bar ul li {
+	float:left;
+	font-size:16px;
+	position:relative;
+	margin-right:-1px;
+	_width:155px;
+	_display:inline;
+	zoom:1
+}
+#collect-bar ul li a {
+	height:36px;
+	line-height:36px;
+	padding:10px 15px;
+	margin-bottom:-2px;
+	background-color:#f0f0f0;
+	border-left:1px solid #dedede;
+	border-right:1px solid #dedede;
+	color:#888
+}
+#collect-bar ul li a:hover {
+	background-color:#f8f8f8
+}
+#collect-bar ul li a.current {
+	background-color:#fafafa;
+	border-left:1px solid #dedede;
+	border-right:1px solid #dedede;
+	border-bottom:2px solid #fafafa
+}
+#collect-bar ul li a em,#collect-bar ul li a span {
+	display:block;
+	float:left
+}
+#collect-bar ul li a em {
+	background-image:url(https://www.qijishow.com/down/assets/app/moquu_icons4.png);
+	background-repeat:no-repeat;
+	width:36px;
+	height:36px;
+	margin-right:5px
+}
+#collect-bar ul li a.home em {
+	background-position:0 0
+}
+#collect-bar ul li a.likes em {
+	background-position:-132px 0
+}
+#collect-bar ul li a.image em {
+	background-position:-176px 0
+}
+#collect-bar ul li a.text em {
+	background-position:-44px 0
+}
+#collect-bar ul li a.video em {
+	background-position:-88px 0
+}
+#moquu_content {
+	overflow:hidden;
+	padding-bottom:45px;
+	margin:0 auto;
+	margin-top:20px
+}
+.moquu_collect {
+	border:1px #dedede solid;
+	float:left;
+	min-height:460px
+}
+.clx:after {
+	clear:both;
+	display:block;
+	visibility:hidden;
+	height:0;
+	content:"";
+	font-size:0;
+	line-height:0
+}
+.moquu_bar {
+	background-color:#eee;
+	padding:0 20px;
+	border-bottom:1px solid #dedede
+}
+.moquu_bar ul li,.moquu_bar ul li a {
+	display:block
+}
+.moquu_bar ul li {
+	float:left;
+	font-size:16px;
+	position:relative;
+	margin-right:-1px;
+	_width:155px;
+	_display:inline;
+	zoom:1
+}
+.moquu_bar ul li a {
+	height:36px;
+	line-height:36px;
+	padding:10px 15px;
+	margin-bottom:-2px;
+	background-color:#f0f0f0;
+	border-left:1px solid #dedede;
+	border-right:1px solid #dedede;
+	color:#888
+}
+.moquu_bar ul li a:hover {
+	background-color:#f8f8f8
+}
+.moquu_bar ul li a.current {
+	background-color:#fafafa;
+	border-left:1px solid #dedede;
+	border-right:1px solid #dedede;
+	border-bottom:2px solid #fafafa
+}
+.moquu_bar ul li a em,.moquu_bar ul li a span {
+	display:block;
+	float:left
+}
+.moquu_bar ul li a em {
+	background-image:url(https://www.qijishow.com/down/assets/app/moquu_icons4.png);
+	background-repeat:no-repeat;
+	width:36px;
+	height:36px;
+	margin-right:5px
+}
+.moquu_bar ul li a.home em {
+	background-position:0 0
+}
+.moquu_bar ul li a.likes em {
+	background-position:-132px 0
+}
+.moquu_bar ul li a.image em {
+	background-position:-176px 0
+}
+.moquu_bar ul li a.text em {
+	background-position:-44px 0
+}
+.moquu_bar ul li a.video em {
+	background-position:-88px 0
+}
+.add-tagList {
+	height:250px
+}
+.moquu_wrap {
+	margin:0 auto;
+	background:#fff
+}
+.moquu_line {
+	margin-left:50px;
+	margin-bottom:20px
+}
+.moquu_flet {
+	width:100px;
+	line-height:40px;
+	font-size:14px;
+	display:block;
+	height:40px
+}
+.moquu_flet textarea img {
+	max-width:550px;
+	width:expression(document.body.clientWidth>550? "550px":"auto");
+	width:expression(document.body.clientWidth < 550? "auto":"auto")
+}
+.moquu_apin {
+	display:blocl;
+	float:left;
+	height:38px;
+	width:500px;
+	border:1px solid #dbe2e6;
+	line-height:38px;
+	text-indent:20px
+}
+.moquu_apin:focus {
+	border:1px solid #e0c614
+}
+.moquu_apin2 {
+	display:blocl;
+	float:left;
+	height:138px;
+	width:500px;
+	border:1px solid #dbe2e6;
+	line-height:38px;
+	text-indent:20px
+}
+.moquu_apin2:focus {
+	border:1px solid #e0c614
+}
+.simctrl {
+	margin:20px 0 0 0
+}
+.moquu_ltag a {
+	display:block;
+	float:left;
+	background:#f8f8f8;
+	height:26px;
+	line-height:26px;
+	margin:0 5px 10px 0;
+	padding:0 15px;
+	white-space:nowrap
+}
+.moquu_ltag a:hover {
+	background:#636363;
+	color:#fff
+}
+.moquu_witcher a {
+	display:block;
+	width:60px;
+	height:60px;
+	margin-bottom:10px;
+	float:left;
+	position:relative;
+	text-align:center;
+	margin:0 20px 10px 0
+}
+.moquu_witcher .gselected {
+	position:absolute;
+	right:5px;
+	bottom:5px
+}
+.moquu_btn {
+	background:#38a3db;
+	color:#fff;
+	width:130px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	display:block;
+	float:left;
+	font-size:16px;
+	border:0;
+	cursor:pointer
+}
+.moquu_ltag {
+	width:95%;
+	margin-left:40px
+}
+.moquu_ltag .orange {
+	color:#ff7f03;
+	background:#ff7f03;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .white {
+	background:#fff;
+	border:1px solid #f2f2f2;
+	width:38px;
+	height:38px;
+	color:#FFF;
+	line-height:38px;
+	text-align:center
+}
+.moquu_ltag .blue {
+	color:#2779a7;
+	background:#2779a7;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .green {
+	color:#4cbf0e;
+	background:#4cbf0e;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .yellow {
+	color:#ffde00;
+	background:#ffde00;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .red {
+	color:#f01e1e;
+	background:#f01e1e;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .purple {
+	color:#c818fb;
+	background:#c818fb;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .pink {
+	color:#e9016e;
+	background:#e9016e;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .gray {
+	color:#d3d5d4;
+	background:#d3d5d4;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .black {
+	color:#000;
+	background:#000;
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.moquu_ltag .colorful {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_color.png);
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	text-indent:-9999px
+}
+.moquu_ltag .colorful:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_color.png);
+	width:40px;
+	height:40px;
+	line-height:40px;
+	text-align:center
+}
+.text:focus,.moquu_table textarea:focus {
+	border:1px solid #50b30e!important;
+	outline:0
+}
+.moquu_tr tbody tr.vno td {
+	padding:10px 10px 5px 30px;
+	margin:0;
+	line-height:16px
+}
+.moquu_tr tbody tr.vno td div {
+	padding-bottom:5px;
+	line-height:28px
+}
+.moquu_tr tbody tr.vno td div a {
+	line-height:28px
+}
+a.xxxx {
+	color:red
+}
+.moquu_table {
+	width:100%;
+	margin:0 auto 7px;
+	font-size:12px;
+	overflow:hidden;
+	border:1px solid #eee;
+	border-bottom:0
+}
+.moquu_table tr td a {
+	text-decoration:none
+}
+.moquu_table * a:hover {
+	color:#F00;
+	text-decoration:underline
+}
+.moquu_table caption {
+	text-align:left;
+	height:24px;
+	line-height:24px;
+	font-size:14px;
+	text-indent:6px;
+	color:#000;
+	letter-spacing:2px
+}
+.moquu_table tbody {
+	overflow:hidden;
+	text-align:left
+}
+.moquu_table tbody tr th {
+	padding:12px 0 9px 0;
+	text-align:center;
+	background:#fbfbfb;
+	border-bottom:1px solid #e2e2e2;
+	font-weight:normal;
+	font-size:18px
+}
+.moquu_table tbody tr td {
+	padding:13px 15px 10px 15px;
+	color:#333;
+	border-bottom:1px solid #eee;
+	text-align:left
+}
+.moquu_tr tbody tr th {
+	padding:16px 0 13px 0;
+	text-align:center;
+	background:#fbfbfb;
+	border-bottom:1px solid #e2e2e2
+}
+.moquu_tr tbody tr td {
+	padding:17px 0 14px 0;
+	color:#333;
+	border-bottom:1px solid #eee;
+	text-align:center
+}
+tr.hover {
+	background-color:#fbfbfb
+}
+tr.bgfff {
+	background:#fff!important
+}
+.moquu_table tbody tr th .toggle {
+	width:15px;
+	height:13px;
+	border:0;
+	cursor:pointer;
+	vertical-align:middle
+}
+.moquu_table tbody tr th small {
+	font-size:12px;
+	color:#666
+}
+.moquu_table tbody tr td.td1 {
+	border-right:1px solid #ededed;
+	background:#f9f9f9;
+	text-align:left;
+	color:#444;
+	vertical-align:middle
+}
+.moquu_table tbody tr td.tdbig {
+	font-size:14px;
+	vertical-align:middle;
+	text-align:center
+}
+.moquu_table tbody tr td span {
+	color:#F60;
+	padding-left:5px
+}
+.moquu_box {
+	margin:0 auto;
+	text-align:left;
+	overflow:hidden
+}
+.moquu_box a {
+	color:#666
+}
+.tdl {
+	text-align:left!important;
+	text-indent:10px!important
+}
+.pagec {
+	margin:5px auto;
+	padding:5px 0;
+	float:left;
+	position:relative;
+	clear:both
+}
+.pagelistbox {
+	position:relative;
+	float:left
+}
+.pagelistbox a,.pagelistbox a:visited,.pagelistbox span,.pagelistbox strong {
+	float:left;
+	font-family:Tahoma;
+	color:#555;
+	border:1px solid #ddd;
+	padding:6px 10px;
+	text-decoration:none;
+	background:#fff;
+	margin:2px
+}
+.pagelistbox a:hover {
+	color:#006fba;
+	text-decoration:none;
+	background:#fff;
+	border-color:#cccbcb
+}
+.pagelistbox strong {
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	background:#006fba;
+	border-color:#006fba
+}
+.moquu_xynav {
+	margin:10px auto 5px auto;
+	height:30px;
+	overflow:hidden;
+	border-bottom:3px solid #016ab1
+}
+.moquu_xynav2 {
+	height:30px;
+	line-height:30px;
+	line-height:33px\9;
+	_line-height:30px;
+	overflow:hidden
+}
+.moquu_xynav2 a {
+	display:block;
+	float:left;
+	padding:0 18px;
+	text-align:center;
+	color:#333;
+	margin:0 3px 0 0;
+	font-family:Tahoma,Geneva,sans-serif;
+	background:#fbfbfb
+}
+.moquu_xynav2 a:hover {
+	text-decoration:none
+}
+.moquu_xynav2 a.on {
+	color:#fff;
+	font-weight:bold;
+	background:#016ab1
+}
+.moquu_btext {
+	border:1px solid #707070;
+	border-color:#707070 #cecece #cecece #707070;
+	height:26px;
+	line-height:26px;
+	padding-left:5px
+}
+.moquu_btext2 {
+	border:1px solid #cecece;
+	color:#707070;
+	padding-left:10px
+}
+.moquu_btext,textarea {
+	margin:0;
+	outline:0;
+	border:1px solid #CCC;
+	padding:5px;
+	-webkit-box-shadow:#dfdfdf 0 1px 2px 0 inset;
+	box-shadow:#dfdfdf 0 1px 2px 0 inset;
+	width:600px;
+	color:#666;
+	font:14px/1.6 "微软雅黑",tahoma,arial;
+	outline:0
+}
+.moquu_btext {
+	height:30px;
+	background:#fff;
+	line-height:30px;
+	overflow:hidden
+}
+.moquu_btext2 {
+	height:35px;
+	background:#eeeded;
+	line-height:35px;
+	overflow:hidden
+}
+select.moquu_btext {
+	font:12px/30px "微软雅黑",tahoma,arial
+}
+.moquu_btext:focus,.moquu_table textarea:focus {
+	border:1px solid #016ab1!important;
+	outline:0
+}
+.dbtj {
+	text-align:center;
+	padding:10px 0
+}
+.btn_tj {
+	width:75px;
+	height:35px;
+	border:0;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -1px -118px no-repeat;
+	cursor:pointer
+}
+.btn_tj:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -1px -152x
+}
+.btn_cz {
+	width:75px;
+	height:35px;
+	border:0;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) no-repeat -1px -152x;
+	cursor:pointer;
+	color:#333;
+	font-size:12px;
+	text-align:center
+}
+.btn_cz:hover {
+	background-position:-75px -35px
+}
+.moquu_user {
+	background:#333;
+	border-radius:15px;
+	padding:0 15px 0 15px;
+	margin-left:10px;
+	float:right;
+	color:#9e9e9e
+}
+.moquu_user a {
+	color:#9e9e9e
+}
+.moquu_user:hover {
+	background:#006bb9;
+	border-radius:15px;
+	padding:0 15px 0 15px;
+	color:#eceded;
+	float:right
+}
+.moquu_user:hover a {
+	color:#dbdbdb
+}
+.moquu_user:hover a:hover {
+	color:#fff
+}
+#tuyiyilogin {
+	float:left
+}
+#div1 {
+	display:none;
+	position:absolute
+}
+#div2 {
+	display:none;
+	position:absolute;
+	height:100%;
+	width:100%;
+	padding-top:15%;
+	z-index:1001;
+	left:0;
+	top:0
+}
+#div3 {
+	display:none;
+	position:absolute
+}
+#div4 {
+	display:none;
+	position:absolute;
+	height:100%;
+	width:100%;
+	padding-top:10%;
+	z-index:1001;
+	left:0;
+	top:0
+}
+.moquu_mask {
+	width:100%;
+	height:100%;
+	z-index:8;
+	background:#000;
+	position:fixed;
+	top:0;
+	left:0;
+	opacity:.5;
+	filter:alpha(opacity=50)
+}
+#moquu_lert {
+	width:440px;
+	background:#fff;
+	position:fixed;
+	left:50%;
+	margin-left:-220px;
+	z-index:99
+}
+.moquu_close {
+	width:20px;
+	height:20px;
+	margin-right:20px;
+	margin-top:10px;
+	cursor:pointer;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) no-repeat -80px -123px
+}
+.moquu_login {
+	width:340px;
+	margin:0 auto
+}
+.moquu_loginh {
+	height:40px;
+	margin-top:20px
+}
+.moquu_loginh .fl {
+	font-size:30px;
+	line-height:40px;
+	color:#292929
+}
+.moquu_loginh .fr {
+	font-size:18px;
+	line-height:50px;
+	color:#707070
+}
+.moquu_loginh .fr a {
+	font-size:18px;
+	line-height:50px;
+	color:#ff4200;
+	margin-left:5px
+}
+.moquu_login h3 {
+	font-size:14px;
+	font-weight:500;
+	height:20px;
+	margin-top:15px;
+	color:#292929
+}
+.moquu_loginb {
+	line-height:70px;
+	color:#6b6a6a
+}
+.moquu_loginx input {
+	display:block;
+	height:14px;
+	line-height:14px;
+	width:100%;
+	border:#dae2e5 1px solid;
+	text-indent:10px;
+	overflow:hidden;
+	color:#979696;
+	padding-top:13px;
+	padding-bottom:13px
+}
+.moquu_logint input {
+	width:130px;
+	height:40px;
+	line-height:40px;
+	margin:15px 20px 0 0;
+	color:#fff;
+	background:#3eb0d8;
+	display:block;
+	text-align:center;
+	font-size:20px;
+	border:0;
+	font-family:'微软雅黑';
+	cursor:pointer
+}
+.moquu_tlogin {
+	padding-top:30px;
+	padding-left:50px;
+	padding-bottom:10px
+}
+.moquu_tlogin h4 {
+	color:#6b6a6a;
+	font-weight:500;
+	margin-bottom:20px
+}
+.moquu_tlogin ul li {
+	display:block;
+	float:left;
+	margin-bottom:10px;
+	margin-right:20px
+}
+.moquu_tlogin ul li a {
+	display:block;
+	float:left;
+	height:40px;
+	line-height:40px;
+	width:160px;
+	color:#fff;
+	text-indent:60px
+}
+.moquu_h {
+	position:relative;
+	height:56px;
+	overflow:visible;
+	z-index:1001
+}
+.moquu_h .moquu_f {
+	width:100%;
+	background:#333;
+	border-top:1px #383838 solid;
+	border-bottom:1px #444 solid;
+	color:#383838
+}
+.moquu_h .moquu_f .moquu_b {
+	position:relative;
+	height:56px;
+	background:#333;
+	overflow:hidden
+}
+.moquu_h .moquu_f .moquu_b .moquu_n {
+	float:left;
+	font-size:14px;
+	overflow:hidden
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch {
+	float:left
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch .btn {
+	font-weight:bold;
+	padding-left:20px;
+	height:56px;
+	line-height:56px
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch .navsub {
+	border-left:1px solid #3e3e3e;
+	padding-left:20px
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch .navsub li {
+	padding:5px 20px 3px 0;
+	list-style-type:none
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch .navsub a {
+	color:#949494;
+	line-height:19px
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch .navsub a:hover {
+	color:#e74987
+}
+.moquu_adz {
+	left:0;
+	top:0;
+	width:960px;
+	height:270px
+}
+#moquu_weixin {
+	position:fixed;
+	left:5px;
+	top:240px;
+	width:161px;
+	_position:absolute;
+	_top:expression(eval(document.documentElement.scrollTop+220))
+}
+#moquu_weixinx {
+	height:277px;
+	background:url(https://www.qijishow.com/down/assets/app/weixin.jpg) no-repeat
+}
+.moquu_zjlb {
+	float:left;
+	width:1200px;
+	font-size:14px;
+	margin-top:40px
+}
+.moquu_zjlb .moquu_zjlz a:hover,.moquu_zjlb .moquu_zjly a:hover,.moquu_zjlb .moquu_zjlx a:hover {
+	color:#fff;
+	background:#666
+}
+.moquu_zjlb .moquu_zjlz a,.moquu_zjlb .moquu_zjly a,.moquu_zjlb .moquu_zjlx a {
+	float:left;
+	color:#fff;
+	margin-right:3px;
+	font-size:12px
+}
+.moquu_tmap {
+	height:780px;
+	margin-top:10px;
+	margin-bottom:30px;
+	float:left;
+	background:#FFF
+}
+.moquu_mappt,.moquu_mapys,.moquu_maphy {
+	float:left;
+	margin-left:10px
+}
+.moquu_tmap a,.moquu_maphy a {
+	display:block;
+	float:left;
+	background:#f8f8f8;
+	text-align:center;
+	white-space:nowrap
+}
+.moquu_tmap a:hover,.moquu_maphy a:hover,.moquu_mapys a:hover {
+	background:#767676;
+	color:#fff
+}
+.moquu_mapys a {
+	display:block;
+	float:left;
+	background:#f8f8f8;
+	white-space:nowrap
+}
+.moquu_mapys .white {
+	background:#fff;
+	border:1px solid #f2f2f2;
+	color:#FFF;
+	text-align:center
+}
+.moquu_mapys .orange {
+	color:#ff7f03;
+	background:#ff7f03;
+	text-align:center
+}
+.moquu_mapys .blue {
+	color:#2779a7;
+	background:#2779a7;
+	text-align:center
+}
+.moquu_mapys .green {
+	color:#4cbf0e;
+	background:#4cbf0e;
+	text-align:center
+}
+.moquu_mapys .yellow {
+	color:#ffde00;
+	background:#ffde00;
+	text-align:center
+}
+.moquu_mapys .red {
+	color:#f01e1e;
+	background:#f01e1e;
+	text-align:center
+}
+.moquu_mapys .purple {
+	color:#c818fb;
+	background:#c818fb;
+	text-align:center
+}
+.moquu_mapys .pink {
+	color:#e9016e;
+	background:#e9016e;
+	text-align:center
+}
+.moquu_mapys .gray {
+	color:#d3d5d4;
+	background:#d3d5d4;
+	text-align:center
+}
+.moquu_mapys .black {
+	color:#000;
+	background:#000;
+	text-align:center
+}
+.moquu_mapys .colorful {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_color.png);
+	text-align:center;
+	text-indent:-9999px
+}
+.moquu_mapys .colorful:hover {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_color.png);
+	text-align:center
+}
+.moquu_mappt h1 {
+	color:#6b6a6a;
+	border-bottom:1px #efefef solid;
+	font-weight:bold
+}
+.moquu_mapys h1,.moquu_maphy h1 {
+	color:#6b6a6a;
+	border-bottom:1px #efefef solid;
+	font-weight:bold
+}
+.moquu_rrdbx {
+	float:left;
+	background:#fcfcfc
+}
+#pageslide {
+	display:none;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:999999;
+	width:100%;
+	min-height:884px;
+	background:url(https://www.qijishow.com/down/assets/app/body.jpg) fixed;
+	color:#FFF
+}
+#zoom {
+	display:none;
+	top:0
+}
+.moquu_z {
+	float:left;
+	width:135px;
+	padding:20px 15px 15px 15px;
+	position:fixed;
+	text-align:center
+}
+.moquu_z h1 {
+	padding-bottom:10px
+}
+.moquu_z p {
+	padding-bottom:12px;
+	line-height:22px;
+	padding-top:12px;
+	color:#7b7b7b;
+	border-bottom:1px #464646 solid;
+	border-top:1px #464646 solid
+}
+.moquu_z p a {
+	color:#ddd
+}
+.moquu_z a#close {
+	background:url(https://www.qijishow.com/down/assets/app/zoomr_back.png) no-repeat;
+	float:left;
+	margin:12px 30px;
+	width:54px;
+	height:30px;
+	padding-left:10px;
+	line-height:30px;
+	color:#c6c6c6
+}
+.moquu_z a#close:hover {
+	background:url(https://www.qijishow.com/down/assets/app/zoomr_back.png) 0 -30px no-repeat
+}
+.moquu_z .adz {
+	float:left;
+	background:#F00;
+	width:140px;
+	height:140px;
+	margin-top:280px
+}
+.moquu_y {
+	float:left;
+	width:1000px;
+	padding:20px 15px 15px 15px;
+	margin-left:170px;
+	top:0
+}
+.moquu_y img {
+	max-width:1060px;
+	width:expression(document.body.clientWidth>1060? "1060px":"auto");
+	width:expression(document.body.clientWidth < 1060? "auto":"auto")
+}
+.moquu_row {
+	margin-bottom:20px;
+	background:#f1f1f1;
+	width:250px;
+	height:250px;
+	float:left
+}
+.moquu_rowjc {
+	float:left;
+	width:250px;
+	margin-bottom:20px
+}
+.moquu_rowjc b {
+	font-size:14px;
+	color:#666;
+	float:left;
+	width:250px;
+	margin-bottom:8px;
+	font-family:Verdana,Geneva,sans-serif
+}
+.moquu_rowjc li {
+	width:250px;
+	overflow:hidden;
+	clear:both;
+	padding:12px 0;
+	border-bottom:1px solid #f4f4f4;
+	color:#aaa
+}
+.moquu_rowjc li a.nimg {
+	width:100px;
+	float:left;
+	margin-right:15px;
+	margin-bottom:3px;
+	display:inline
+}
+.moquu_rowjc li a.nimg img {
+	width:100px;
+	height:75px;
+	display:block
+}
+.moquu_rowjc li a.nimg:hover img {
+	filter:alpha(opacity=80);
+	-moz-opacity:.8;
+	-khtml-opacity:.8;
+	opacity:.8
+}
+.moquu_rowjc li a.ntitle {
+	overflow:hidden;
+	line-height:20px;
+	font-size:12px;
+	color:#333;
+	font-family:Verdana,Geneva,sans-serif
+}
+.moquu_rowjc li a.ntitle:hover {
+	color:#e74987
+}
+.moquu_tnews {
+	padding-top:5px
+}
+#sidehello {
+	overflow:hidden;
+	margin-bottom:15px;
+	font-size:14px;
+	width:250px;
+	background:#FFF
+}
+.moquu_rryxx {
+	margin:15px 0 5px 25px;
+	float:left
+}
+.moquu_rryxx a {
+	color:#949494;
+	background:#414141;
+	float:left;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	padding:5px 15px 5px 15px
+}
+.moquu_rryxx a:hover {
+	color:#FFF;
+	background:#3884c6;
+	float:left
+}
+.linklist {
+	float:left;
+	margin-top:10px
+}
+.linklist li {
+	height:20px;
+	line-height:20px;
+	margin-bottom:5px;
+	overflow:hidden;
+	list-style:disc;
+	list-style-position:inside;
+	display:list-item;
+	color:#ccc
+}
+.linklist li a:hover {
+	color:#e74987
+}
+.tab .moquu_tab {
+	margin-bottom:6px;
+	float:left;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_tab.jpg);
+	height:51px;
+	margin-left:1px
+}
+.tab .moquu_tab a {
+	padding:0 30px 0 30px;
+	color:#666;
+	margin-left:-1px;
+	height:51px;
+	border-right:1px solid #f4f4f4;
+	line-height:50px;
+	font-size:14px;
+	float:left
+}
+.tab .moquu_tab a.current {
+	background:#fff;
+	margin-left:-1px;
+	border-top:3px #666 solid;
+	color:#000;
+	height:47px;
+	line-height:44px;
+	border-bottom:1px #f4f4f4 solid
+}
+.tab .moquu_tab2 {
+	margin-bottom:6px;
+	float:left
+}
+.tab .moquu_tab2 a {
+	padding:5px 8px;
+	font-size:12px;
+	float:left;
+	background:#999;
+	color:#fff
+}
+.tab .moquu_tab2 a.current {
+	background:#3f3f3f
+}
+.moquu_listimg {
+	overflow:hidden;
+	float:left;
+	margin-top:10px;
+	margin-left:-10px
+}
+.moquu_listimg dd {
+	width:120px;
+	height:90px;
+	float:left;
+	display:inline;
+	margin:0 0 10px 10px
+}
+.moquu_listimg dd img {
+	width:120px;
+	height:90px;
+	display:block;
+	border:0
+}
+.moquu_listimg dd:hover img {
+	opacity:.8;
+	filter:alpha(opacity=80)
+}
+#href_false a {
+	cursor:default
+}
+#moquu_top,#moquu_wxin,#moquu_wshare,#moquu_wmaps {
+	z-index:2;
+	width:50px;
+	height:50px;
+	right:10px;
+	position:fixed;
+	cursor:pointer;
+	_position:absolute;
+	_bottom:auto;
+	_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)))
+}
+#moquu_wxin {
+	top:360px;
+	_margin-top:360px
+}
+#moquu_wxin a {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) 0 -0px;
+	right:0;
+	float:left;
+	width:50px;
+	height:50px;
+	text-indent:-9999px
+}
+#moquu_wxin a:hover {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) -50px -0px
+}
+#moquu_wshare {
+	top:412px;
+	_margin-top:412px
+}
+#moquu_wshare a {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) 0 -50px;
+	width:50px;
+	height:50px;
+	right:0;
+	float:left;
+	text-indent:-9999px
+}
+#moquu_wshare a:hover {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) -50px -50px
+}
+#moquu_wmaps {
+	top:464px;
+	_margin-top:464px
+}
+#moquu_wmaps a {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) 0 -150px;
+	width:50px;
+	height:50px;
+	right:0;
+	float:left;
+	text-indent:-9999px
+}
+#moquu_wmaps a:hover {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) -50px -150px
+}
+#moquu_top {
+	top:516px;
+	_margin-top:516px;
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) 0 -101px;
+	width:50px;
+	height:50px;
+	display:none
+}
+#moquu_top:hover {
+	background:url(https://www.qijishow.com/down/assets/app/sbtn.png) -50px -101px
+}
+.moquu_wxin,.moquu_wshare {
+	position:relative;
+	z-index:2
+}
+.moquu_wxin a:hover .moquu_wxinh,.moquu_wshare a:hover .moquu_wshareh {
+	display:block
+}
+.moquu_wxin .moquu_wxinh {
+	position:absolute;
+	display:none;
+	left:-280px;
+	top:-200px;
+	width:275px;
+	height:355px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -1px -482px no-repeat
+}
+.moquu_wshare .moquu_wshareh {
+	position:absolute;
+	display:none;
+	left:-280px;
+	top:-200px;
+	width:275px;
+	height:360px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_wshare.png) no-repeat
+}
+.moquu_nhead {
+	position:relative;
+	height:60px;
+	z-index:888
+}
+.moquu_ncon {
+	width:1200px;
+	position:relative;
+	margin:0 auto
+}
+.moquu_nlogo {
+	width:175px;
+	float:left
+}
+.moquu_nlogo a {
+	display:block;
+	height:60px;
+	line-height:100;
+	overflow:hidden;
+	background:url(https://www.qijishow.com/down/assets/app/logo.jpg) no-repeat;
+	margin-top:10px
+}
+.moquu_nchannel {
+	white-space:nowrap
+}
+.moquu_nchannel .moquu_nitem {
+	display:inline;
+	float:left;
+	height:61px;
+	line-height:60px;
+	width:56px;
+	padding-left:17px;
+	color:#ddd;
+	font-size:14px;
+	font-family:microsoft yahei
+}
+.moquu_nchannel .moquu_nitemm {
+	display:inline;
+	float:left;
+	height:61px;
+	line-height:60px;
+	width:46px;
+	padding-left:17px;
+	color:#ddd;
+	font-size:14px;
+	font-family:microsoft yahei
+}
+.moquu_nchannel .moquu_nhome {
+	background:#343434
+}
+.moquu_nchannel .moquu_nitem:hover,.moquu_nchannel .moquu_nitemm:hover {
+	background:#414141;
+	color:#FFF
+}
+.moquu_nchannell {
+	float:right
+}
+.moquu_nchannell .moquu_nitem {
+	display:inline;
+	float:left;
+	height:61px;
+	line-height:60px;
+	width:56px;
+	padding-left:17px;
+	color:#ddd;
+	font-size:14px;
+	font-family:microsoft yahei
+}
+.moquu_nchannell .moquu_nitemm {
+	background:#383838;
+	display:inline;
+	margin-top:17px;
+	float:left;
+	height:28px;
+	line-height:28px;
+	width:45px;
+	text-align:center;
+	color:#bdbdbd;
+	font-size:12px;
+	font-family:microsoft yahei
+}
+.moquu_nchannell .moquu_nhome {
+	background:#414141
+}
+.moquu_nchannell .moquu_nitemm:hover {
+	background:#006bb6;
+	color:#FFF
+}
+.moquu_nchannelm {
+	width:73px;
+	height:61px;
+	float:left;
+	position:relative
+}
+.moquu_nchannelm .channel_item {
+	border-right:0
+}
+.moquu_nchannelm .ico_text {
+	float:left;
+	display:inline-block;
+	margin-right:3px
+}
+.moquu_nchannelm .moquu_nfx {
+	position:relative;
+	top:30px;
+	*top:30px;
+	[;top:31px;
+	];vertical-align:top;
+	border-style:solid dashed dashed dashed;
+	border-color:#4e4e4e transparent transparent transparent;
+	border-width:4px;
+	overflow:hidden;
+	width:0;
+	height:0;
+	font-size:0;
+	display:inline-block
+}
+.moquu_nchannelmr {
+	background-color:#414141
+}
+.moquu_nchannelmr .channel_item {
+	color:#fff
+}
+.moquu_nchannelmr .moquu_nfx {
+	position:relative;
+	top:30px;
+	*top:30px;
+	[;top:31px;
+	];vertical-align:top;
+	border-style:solid dashed dashed dashed;
+	border-color:#fff transparent transparent transparent;
+	border-width:4px;
+	overflow:hidden;
+	width:0;
+	height:0;
+	font-size:0;
+	display:inline-block
+}
+.moquu_channels {
+	width:73px;
+	background:#414141;
+	padding-bottom:10px;
+	display:none;
+	position:absolute;
+	top:60px;
+	z-index:100
+}
+.moquu_channels a {
+	float:left;
+	width:55px;
+	color:#CCC;
+	padding-left:18px;
+	line-height:30px;
+	height:30px;
+	opacity:1
+}
+.moquu_channels a:hover {
+	background:#006bb6;
+	color:#FFF
+}
+.moquu_channels3 {
+	width:88px;
+	background:#414141;
+	padding-bottom:10px;
+	display:none;
+	position:absolute;
+	top:60px;
+	z-index:100
+}
+.moquu_channels3 a {
+	float:left;
+	width:70px;
+	color:#CCC;
+	padding-left:18px;
+	line-height:30px;
+	height:30px;
+	opacity:1
+}
+.moquu_channels3 a:hover {
+	background:#006bb6;
+	color:#FFF
+}
+.moquu_channels2 {
+	width:170px;
+	background:#414141;
+	padding-bottom:10px;
+	display:none;
+	position:absolute;
+	left:-97px;
+	top:60px;
+	z-index:100
+}
+.moquu_channels2 a {
+	float:left;
+	width:152px;
+	color:#CCC;
+	padding-left:18px;
+	line-height:30px;
+	height:30px
+}
+.moquu_channels2 a:hover {
+	background:#006bb6;
+	color:#FFF
+}
+.moquu_njtt {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_jt.png) 738px 0 no-repeat;
+	width:1150px;
+	margin-top:20px;
+	float:left;
+	height:10px
+}
+.moquu_nchannels {
+	width:1196px;
+	display:none;
+	position:absolute;
+	top:60px;
+	left:-708px;
+	z-index:100
+}
+.moquu_rquick {
+	width:300px;
+	float:right
+}
+.moquu_seachfrom {
+	position:relative;
+	float:right;
+	padding-top:14px;
+	display:inline
+}
+.moquu_search {
+	width:164px;
+	position:static;
+	height:28px;
+	line-height:26px;
+	overflow:hidden;
+	background:#383838 url(https://www.qijishow.com/down/assets/app/moquu_newico.png) -0px -332px no-repeat
+}
+.moquu_searchtext {
+	float:left;
+	width:126px;
+	height:16px;
+	margin:0 0 0 1px;
+	font-size:12px;
+	border:0 none;
+	background:0;
+	color:#ccc;
+	padding:5px 0 7px 10px;
+	line-height:normal;
+	display:inline;
+	_width:120px;
+	font-family:microsoft yahei
+}
+.moquu_searchtext:focus {
+	outline:0 none
+}
+.focus {
+	background-color:#fff;
+	background-position:-0px -361px;
+	color:#333
+}
+.moquu_searchbtn {
+	float:right;
+	width:26px;
+	height:28px;
+	line-height:26px;
+	overflow:hidden;
+	border:0 none;
+	cursor:pointer;
+	background:0
+}
+.moquu_searchbtn span {
+	visibility:hidden
+}
+.moquu_dropcon {
+	float:left;
+	background:#414141;
+	padding:20px;
+	width:1158px
+}
+.moquu_nxlink {
+	float:left;
+	height:21px;
+	padding:10px 0 35px 0;
+	border-bottom:1px solid #4e4e4e;
+	white-space:nowrap;
+	overflow:hidden
+}
+.moquu_nslink1 {
+	width:680px;
+	float:left
+}
+.moquu_nslink1 a:hover {
+	background:#767676;
+	color:#fff
+}
+.moquu_nslink1 a {
+	display:block;
+	float:left;
+	background:#f8f8f8;
+	white-space:nowrap
+}
+.moquu_nslink1 .orange,.moquu_nslink1 .blue,.moquu_nslink1 .green,.moquu_nslink1 .yellow,.moquu_nslink1 .red,.moquu_nslink1 .purple,.moquu_nslink1 .pink,.moquu_nslink1 .gray,.moquu_nslink1 .white,.moquu_nslink1 .colorful,.moquu_nslink1 .colorful:hover,.moquu_nslink1 .black {
+	width:60px;
+	height:30px;
+	line-height:30px;
+	text-align:center
+}
+.moquu_nslink1 .orange {
+	color:#ff7f03;
+	background:#ff7f03
+}
+.moquu_nslink1 .black {
+	background:#000;
+	color:#000
+}
+.moquu_nslink1 .blue {
+	color:#2779a7;
+	background:#2779a7
+}
+.moquu_nslink1 .green {
+	color:#4cbf0e;
+	background:#4cbf0e
+}
+.moquu_nslink1 .yellow {
+	color:#ffde00;
+	background:#ffde00
+}
+.moquu_nslink1 .red {
+	color:#f01e1e;
+	background:#f01e1e
+}
+.moquu_nslink1 .purple {
+	color:#c818fb;
+	background:#c818fb
+}
+.moquu_nslink1 .pink {
+	color:#e9016e;
+	background:#e9016e
+}
+.moquu_nslink1 .gray {
+	color:#d3d5d4;
+	background:#d3d5d4
+}
+.moquu_nslink1 .white {
+	color:#fff;
+	background:#fff
+}
+.moquu_nslink1 .colorful {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_color.png);
+	text-align:center;
+	text-indent:-9999px
+}
+.moquu_nslink1 .colorful:hover {
+	background:#767676;
+	color:#fff;
+	text-indent:1px
+}
+.moquu_dio {
+	float:left;
+	color:#ccc;
+	line-height:28px;
+	width:60px;
+	font-size:14px
+}
+.moquu_nslink2 {
+	float:left;
+	margin-left:15px
+}
+.moquu_nslink2 a {
+	display:block;
+	float:left;
+	background:#f8f8f8;
+	border-right:1px solid #e8e8e8;
+	white-space:nowrap;
+	padding-left:10px;
+	padding-right:10px;
+	height:30px;
+	line-height:30px;
+	text-align:center
+}
+.moquu_nslink2 a:hover {
+	background:#767676;
+	color:#fff
+}
+.moquu_nmlink {
+	padding-bottom:5px
+}
+.moquu_nmlink dt {
+	height:21px;
+	font-family:"Microsoft Yahei";
+	font-size:14px;
+	padding:15px 0 10px
+}
+.moquu_nmlink dt a {
+	margin-left:5px;
+	color:#3ca0ff
+}
+.moquu_nmlink dd a:hover {
+	color:#e74987
+}
+.moquu_nmlink dd {
+	float:left;
+	line-height:24px;
+	overflow:hidden;
+	white-space:pre-wrap
+}
+.moquu_nmlink dd a {
+	float:left;
+	display:inline;
+	margin-right:12px;
+	color:#b9b9b9;
+	white-space:nowrap
+}
+.moquu_dqlm {
+	width:100%;
+	/* height:100%;
+	*//* border-top:#ededed 1px solid;
+	*/padding-top:54px;
+	/* border-bottom:#e4e3e3 1px solid;
+	*/
+}
+.moquu_lupload {
+	float:right;
+	margin:11px 0
+}
+.moquu_lupload a {
+	display:block;
+	width:120px;
+	height:40px;
+	background:#3499da;
+	color:#fff;
+	text-align:center;
+	color:#FFF!important;
+	font-size:14px;
+	cursor:pointer;
+	line-height:40px;
+	border:0;
+	border-radius:2px
+}
+.moquu_lupload a:hover {
+	background:#3da2e3;
+	transition:all .4s ease-in-out 0s
+}
+.moquu_lupload a:active {
+	background:#2e93d4
+}
+.moquu_listscr {
+	/* float:left; */
+	width:100%;
+	
+	margin-top: 45px !important;
+}
+.moquu_listscr a {
+	float:left;
+	font-size:15px;
+	height:70px;
+	line-height:74px;
+	width:100%;
+	text-align:center;
+	cursor:pointer;
+}
+.moquu_listscr a:hover {
+	color:#DBBE92;
+	font-size:15px;
+	box-shadow:inset 0 0 38px rgba(0,0,0,.08);
+	transition:all .15s ease;
+}
+.moquu_listscr .moquu_listscrn {
+	float:left;
+
+	width:14.333%;
+}
+
+.moquu_listscr .moquu_listscrnh a {
+	color:#D1AB73;
+	font-size:15px;
+}
+.moquu_bookl {
+	float:left;
+	margin-top:15px;
+	padding-top:15px;
+	margin-bottom:15px;
+	border-bottom:1px solid #EEE;
+	border-top:1px solid #EEE
+}
+.moquu_bookl ul {
+	zoom:1
+}
+.moquu_bookl li {
+	width:136px;
+	display:inline-block;
+	padding-left:6px;
+	zoom:1;
+	*display:inline;
+	position:relative;
+	vertical-align:top;
+	_float:left
+}
+.moquu_bookl li a {
+	display:block;
+	border:1px solid transparent;
+	padding:12px 5px 5px 5px;
+	margin:0 0 12px
+}
+.moquu_bookl li a:hover {
+	border-color:#f2f2f2;
+	background:#fafafa
+}
+.moquu_bookl li a .cover {
+	width:105px;
+	height:135px;
+	margin:0 auto;
+	position:relative
+}
+.moquu_bookl li a img {
+	width:105px;
+	height:135px
+}
+.moquu_bookl li .cover span,.moquu_bookl li .cover i {
+	cursor:pointer;
+	display:none
+}
+.moquu_bookl li a:hover .cover span {
+	display:block;
+	color:#f1feff;
+	text-align:center;
+	line-height:1.6em;
+	padding:40px 28px;
+	width:48px;
+	height:40px;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:2;
+	font-size:14px
+}
+.moquu_bookl li a:hover .cover i {
+	background:#e74987;
+	filter:alpha(Opacity=80);
+	-moz-opacity:.8;
+	opacity:.8;
+	display:block;
+	width:105px;
+	height:135px;
+	top:0;
+	left:0;
+	position:absolute;
+	z-index:1
+}
+.moquu_bookl li a .title {
+	font-size:13px;
+	display:block;
+	color:#292929;
+	margin-top:16px;
+	text-align:center;
+	line-height:1.6em
+}
+.moquu_bookl li a:hover .title {
+	color:#e74987;
+	font-weight:bold
+}
+.moquu_bookl li a p {
+	color:#8e8e8e;
+	padding:8px;
+	text-align:left;
+	line-height:1.7em
+}
+.moquu_bookl li a:hover p {
+	color:#585858
+}
+.moquu_book2 {
+	float:left;
+	margin-top:15px;
+	padding-top:15px;
+	margin-bottom:15px;
+	border-bottom:1px solid #EEE;
+	border-top:1px solid #EEE
+}
+.moquu_book2 ul {
+	zoom:1
+}
+.moquu_book2 li {
+	width:185px;
+	display:inline-block;
+	padding-left:6px;
+	zoom:1;
+	*display:inline;
+	position:relative;
+	vertical-align:top;
+	_float:left
+}
+.moquu_book2 li a {
+	display:block;
+	border:1px solid transparent;
+	padding:12px 5px 5px 5px;
+	margin:0 0 12px
+}
+.moquu_book2 li a:hover {
+	border-color:#f2f2f2;
+	background:#fafafa
+}
+.moquu_book2 li a .cover {
+	width:150px;
+	height:113px;
+	margin:0 auto;
+	position:relative
+}
+.moquu_book2 li a img {
+	width:150px;
+	height:113px
+}
+.moquu_book2 li .cover span,.moquu_book2 li .cover i {
+	cursor:pointer;
+	display:none
+}
+.moquu_book2 li a:hover .cover span {
+	display:block;
+	color:#f1feff;
+	text-align:center;
+	line-height:1.6em;
+	padding:43px 33px;
+	width:85px;
+	height:40px;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:2;
+	font-size:14px
+}
+.moquu_book2 li a:hover .cover i {
+	background:#e74987;
+	filter:alpha(Opacity=80);
+	-moz-opacity:.8;
+	opacity:.8;
+	display:block;
+	width:150px;
+	height:113px;
+	top:0;
+	left:0;
+	position:absolute;
+	z-index:1
+}
+.moquu_book2 li a .title {
+	font-size:14px;
+	display:block;
+	color:#292929;
+	word-break:keep-all;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	margin-top:8px;
+	text-align:center;
+	line-height:1.6em
+}
+.moquu_book2 li a:hover .title {
+	color:#e74987;
+	font-size:14px
+}
+.moquu_book2 li a p {
+	color:#8e8e8e;
+	padding:8px;
+	text-align:left;
+	line-height:1.7em
+}
+.moquu_book2 li a:hover p {
+	color:#585858
+}
+.moquu_xad {
+	float:left;
+	height:90px;
+	margin-top:12px;
+	width:1166px;
+	padding:15px;
+	background:#fefefe;
+	border:1px solid #e7e7e7
+}
+.moquu_xad img {
+	padding-right:4px
+}
+.moquu_tooll {
+	float:left;
+	width:280px;
+	height:365px;
+	margin-top:20px;
+	margin-right:25px;
+	background:#FFF
+}
+.moquu_tooll .moquu_toollt {
+	float:left;
+	margin:20px 15px 15px 15px
+}
+.moquu_tooll .moquu_toollt a {
+	width:240px;
+	display:block;
+	color:#000;
+	font-size:18px;
+	height:22px;
+	overflow:hidden;
+	white-space:nowrap;
+	-o-text-overflow:ellipsis;
+	text-overflow:ellipsis;
+	font-weight:normal
+}
+.moquu_tooll .moquu_toollp {
+	width:280px;
+	height:180px;
+	position:relative;
+	display:block;
+	overflow:hidden
+}
+.moquu_toolls {
+	float:left;
+	font-size:13px;
+	color:#999;
+	line-height:24px;
+	margin-top:20px;
+	height:120px;
+	overflow:hidden
+}
+.moquu_cc {
+	width: 100%;
+	margin-bottom:30px;
+	float:left;
+	/* padding: 0 40px 35px 35px; */
+	padding: 16px;
+}
+.moquu_cc h2 {
+	padding: 8px 12px;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 200;
+	color: #ffffff;
+	background: #d1ab79;
+}
+.moquu_cc h3 {
+	font-size:18px;
+	margin-bottom:10px
+}
+.moquu_cc table {
+	width: 100%;
+	border:1px solid #ccc;
+	/* margin-bottom:10px; */
+}
+.moquu_cc table td {
+	padding:5px 0;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc
+}
+.moquu_cc table .tit td {
+	font-size:16px;
+	background:#f5f5f5
+}
+.moquu_cc .gray {
+	background:#fafafa
+}
+.moquu_cc p {
+	margin-bottom:10px
+}
+.moquu_cc img {
+	display:block;
+	margin: 20px 0 53px 0;
+}
+#mod_tad_1 {
+	margin: 21px 0 0 0;
+	margin-bottom: 50px;
+}
+#mod_tad_1 table {
+	border-collapse:collapse;
+	width: 100%;
+}
+#mod_tad_1 tr,#mod_tad_1 td {
+	border:1px #dfdfdf solid;
+	padding: 10px 16px;
+	text-align:center;
+}
+#mod_tad_1 td span {
+	float:left;
+	padding:8px!important
+}
+#mod_tad_1 th {
+	border:1px #dfdfdf solid;
+	background-color:#f2f2f2;
+	color:#000;
+	font-size:15px;
+	font-weight:800;
+	padding:15px 0;
+	text-align:center;
+}
+#mod_tad_1 td {
+	background-color:#FFF;
+	font-size:13px
+}
+#mod_tad_1 td.tad_fir {
+	text-align:left;
+	background-color:#f9f9f9;
+	width:200px;
+	padding:10px 0
+}
+#mod_tad_1 td.tad_fir img {
+	float:left;
+	margin:0 0 0 18px
+}
+#mod_tad_1 td.tad_fir p {
+	float:left;
+	margin:10px 0 0 10px;
+	font-size:14px;
+	width:140px
+}
+#mod_tad_1 td.tad_fir p.tad_td {
+	margin:5px 0 0 10px;
+	font-size:12px
+}
+#mod_tad_1 td.tad_fir2 {
+	text-align:left;
+	background-color:#f9f9f9;
+	width:260px;
+	padding:10px 0
+}
+#mod_tad_1 td.tad_fir2 img {
+	float:left;
+	margin:0 0 0 18px
+}
+#mod_tad_1 td.tad_fir2 p {
+	float:left;
+	margin:10px 0 0 10px;
+	font-size:14px;
+	width:180px
+}
+#mod_tad_1 td.tad_fir2 p em {
+	color:#999;
+	font-size:12px;
+	font-style:normal;
+	font-family:Verdana,Geneva,sans-serif
+}
+#mod_tad_1 td.tad_fir2 p.tad_td {
+	margin:5px 0 0 10px;
+	font-size:12px
+}
+#mod_tad_1 td.tad_fir_1 {
+	background-color:#f9f9f9;
+	width:210px;
+	padding:10px 0;
+	text-align: center;
+}
+#mod_tad_1 td.tad_fir_1 p {
+	font-size:16px
+}
+@media screen and (max-width:2560px) {
+	.moquu_top,.moquu_hom,.moquu_topad,.moquu_downtop2 .moquu_add img,.moquu_down,.moquu_downtop2,.moquu_comment,.moquu_wzrr,.moquu_dhmap,.moquu_h .moquu_f .moquu_b,#content,.moquu_downj,#moquu_content {
+	width:100%;
+	/* margin-top:31px;
+	*/
+}
+.moquu_commob {
+	width:1220px;
+	margin:5px auto
+}
+.moquu_common,.moquu_commoz {
+	width: 100%;
+}
+.moquu_tmap {
+	width:1154px;
+	padding:20px
+}
+.moquu_mappt,.moquu_mapys,.moquu_maphy {
+	float:left;
+	width:1140px;
+	margin-left:10px
+}
+.moquu_tmap a,.moquu_maphy a {
+	width:75px;
+	height:42px;
+	line-height:42px;
+	margin:0 6px 10px 0
+}
+.moquu_mapys a {
+	height:26px;
+	line-height:26px;
+	margin:0 6px 10px 0;
+	padding:0 15px
+}
+.moquu_tmap a,.moquu_maphy a,.moquu_mapys a {
+	font-size:14px
+}
+.moquu_mapys .white {
+	width:43px;
+	height:40px;
+	line-height:40px
+}
+.moquu_mapys .orange,.moquu_mapys .blue,.moquu_mapys .green,.moquu_mapys .yellow,.moquu_mapys .red,.moquu_mapys .pink,.moquu_mapys .gray,.moquu_mapys .black,.moquu_mapys .colorful:hover,.moquu_mapys .colorful,.moquu_mapys .purple {
+	width:45px;
+	height:42px;
+	line-height:42px
+}
+.moquu_mappt h1 {
+	padding:10px 10px 10px 10px;
+	height:25px;
+	margin-bottom:18px;
+	font-size:16px
+}
+.moquu_mapys h1,.moquu_maphy h1 {
+	padding:20px 10px 10px 10px;
+	height:25px;
+	margin-bottom:18px;
+	font-size:16px
+}
+.moquu_collect {
+	width:1198px
+}
+.moquu_htop {
+	width:1201px
+}
+.moquu_downtop {
+	width:960px
+}
+.moquu_box,.moquu_xynav {
+	width:1100px
+}
+.moquu_zptox,.moquu_zptoxm,.moquu_zptop,.moquu_utop,.moquu_utopp,.moquu_utoppx,.moquu_zptoxv {
+	width: 90%;
+}
+.moquu_commox,.moquu_rrtop {
+	width:1254px
+}
+.top-rec-con,.moquu-page2,.moquu-page3,.moquu_downtop,.moquu_downtop4,.moquu_zpnew,.moquu_zpnewx,.moquu_zpnews,.moquu_iconb {
+	width:1190px
+}
+.top-title {
+	width:1160px
+}
+.moquu_zonez {
+	width:1160px
+}
+.top-box {
+	width:1188px
+}
+.top-rec {
+	width:1104px;
+	_width:1110px
+}
+.moquu_zpneww {
+	width:1210px
+}
+.moquu_rrtop {
+	margin-left:12px
+}
+.moquu_zptoxm {
+	margin-left:10px
+}
+.moquu_zptox,moquu_zptoxv {
+	margin-left:-3px
+}
+.moquu_inner,.moquu_innez {
+	width:1170px
+}
+.moquu_zonet {
+	width:1200px;
+	background:url(https://www.qijishow.com/down/assets/app/moquu_1200.jpg) no-repeat
+}
+.moquu_hom a {
+	padding:19px 30px 19px 30px;
+	font-size:15px;
+	font-weight:bold
+}
+.moquu_hom a:hover {
+	padding:19px 30px 19px 30px;
+	font-size:15px
+}
+.moquu_hom a.moquu_zt,.moquu_h .moquu_f .moquu_b .moquu_n span a.btn {
+	padding:19px 30px 19px 30px;
+	font-size:15px
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch a.btn:hover {
+	font-size:15px;
+	color:#FFF
+}
+.moquu_nav span {
+	margin-left:815px
+}
+.moquu_ady {
+	right:0;
+	top:0;
+	width:210px;
+	height:270px
+}
+.moquu_qtagx {
+	float:left
+}
+.moquu_qtagc,.moquu_rryx,.moquu_rrxad {
+	display:none
+}
+.top-rec li {
+	width:80px;
+	height:70px
+}
+.top-rec li img {
+	width:70px
+}
+.top-rec li span {
+	width:74px
+}
+.moquu_zpimg,.moquu_zpimg2 {
+	width:213px;
+	margin-right:15px;
+	padding:7px
+}
+.moquu_zpimg .moquu_pic img,.moquu_zpbt,.moquu_zpzz,.moquu_zpimg .moquu_picc img {
+	width:213px
+}
+.moquu_zpimg2 img {
+	width:213px;
+	height:269px
+}
+.moquu_zpfx {
+	width:212px
+}
+.moquu_us .cell {
+	width:380px
+}
+.moquu_us .cell2 {
+	width:350px;
+	border-left:1px solid #626262
+}
+.moquu_us .cell3 {
+	width:375px;
+	border-left:1px solid #626262;
+	border-right:0;
+	padding-right:0
+}
+.moquu_rr {
+	width:394px
+}
+#sidebar,#sidebar-inner,.moquu_rry {
+	width:300px
+}
+.moquu_rry .moquu_rryb,#sidebar-inner .sidebar-inner {
+	width:300px
+}
+.moquu_wtop {
+	width:753px
+}
+.moquu_uedx {
+	width:820px;
+	padding:0 10px 50px 25px;
+	overflow:hidden
+}
+.moquu_uedr {
+	width:1125px
+}
+.moquu_uedr p a img {
+	max-width:1180px
+}
+.moquu_uedx img {
+	max-width:800px;
+	width:expression(document.body.clientWidth>820? "820px":"auto");
+	width:expression(document.body.clientWidth < 820? "auto":"auto")
+}
+.intro {
+	width:590px
+}
+.moquu_img {
+	width:216px
+}
+.moquu_img3 {
+	width:190px
+}
+.moquu_img .moquu_pic img,.moquu_img .moquu_picc img {
+	width:215px
+}
+.moquu_rrsk {
+	width:1196px
+}
+.moquu_rrskz {
+	width:1190px
+}
+#focus,#focus ul li,#focus .btnBg,#focus .btn {
+	width:1170px
+}
+.moquu_rrbt {
+	width:800px
+}
+.moquu_rrbt860 {
+	width:860px
+}
+.moquubtr,.moquu_rradt {
+	width:870px;
+	margin-left:20px
+}
+.moquu_wbbook {
+	width:877px;
+	margin-left:20px
+}
+.moquu_rrdbx,.moquu_rrskzx,.moquu_wzrx,.moquu_ued,.moquu_ue {
+	width:915px
+}
+.moquu_hotlb {
+	width:1215px
+}
+.moquu_tab {
+	width:914px
+}
+.moquu_dshuo {
+	width:815px;
+	padding:10px 30px 20px 30px;
+	float:left;
+	margin-left:20px
+}
+.moquu_rrtp {
+	width:800px;
+	padding-left:45px
+}
+.moquu_tags {
+	width:550px
+}
+.moquu_zpp {
+	width:1162px
+}
+.moquu_rrtp img {
+	max-width:800px;
+	width:expression(document.body.clientWidth>820? "820px":"auto");
+	width:expression(document.body.clientWidth < 820? "auto":"auto")
+}
+.moquu_wtox {
+	padding:20px 20px 23px 20px;
+	width:755px
+}
+.moquu_wtop {
+	padding:15px 20px 23px 20px
+}
+.moquubtr h1 {
+	font-size:16px;
+	padding-bottom:25px;
+	font-weight:bold;
+	padding-top:10px
+}
+.moquubtr h2 {
+	font-size:16px;
+	height:40px
+}
+.moquu_ty {
+	padding:10px;
+	width:1176px
+}
+.moquu_tyy,.moquu_zonezy,.moquu_bookl {
+	width:1168px
+}
+.moquu_hao_rigth {
+	width:1057px
+}
+.moquu_haobot a,.moquu_haobot {
+	width:97px
+}
+.moquu_haobot li a {
+	padding:0 10px;
+	_padding:0
+}
+.moquu_haox {
+	width:123px
+}
+.moquu_haox a:hover,.moquu_haoxx a:hover,.moquu_haoxxnew a:hover,.moquu_haoxxhot a:hover,.moquu_haoxnew a:hover,.moquu_haoxhot a:hover {
+	color:#e74987
+}
+.moquu_haoxx {
+	float:left;
+	font-size:12px;
+	width:128px
+}
+.moquu_haoxxnew {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haonew.gif) 0 15px no-repeat
+}
+.moquu_haoxxnew a {
+	color:#5dad2c
+}
+.moquu_haoxxhot {
+	background:url(https://www.qijishow.com/down/assets/app/moquu_haohot.gif) 0 15px no-repeat
+}
+.moquu_haoxxhot a {
+	color:#ff8901
+}
+.moquu_haoxnew,.moquu_haoxhot {
+	padding-left:18px;
+	width:105px
+}
+.moquu_haoxxnew,.moquu_haoxxhot {
+	padding-left:18px;
+	width:110px
+}
+.moquu_hao_rigth li.moer {
+	padding-left:10px;
+	width:40px
+}
+.moquu_hao_rigth li.moer a {
+	width:45px
+}
+.moquu_hao_rigth li.moer a:hover {
+	color:#e74987
+}
+.moquu_downtop5 {
+	padding-top:20px
+}
+.moquu_htop {
+	margin-top:20px
+}
+.moquu_downtop6 {
+	float:right;
+	padding-top:20px
+}
+.moquu_pimg2 {
+	width:404px;
+	margin-top:20px
+}
+.moquu_pimg3 {
+	width:390px;
+	height:200px
+}
+.moquu_pimg3 img {
+	width:390px;
+	height:195px
+}
+.moquu_ptitle {
+	width:504px
+}
+.moquu_zjlb .moquu_zjlz a {
+	padding:10px 17px 10px 17px;
+	background:#48988e
+}
+.moquu_zjlb .moquu_zjly a {
+	padding:10px 17px 10px 17px;
+	background:#61b8ad
+}
+.moquu_zjlb .moquu_zjlx a {
+	padding:10px 17px 10px 16px;
+	background:#97cda5
+}
+.moquu_rradt {
+	float:left;
+	text-align:center;
+	padding:15px 0 30px 0
+}
+.moquu_rrbt {
+	margin-left:15px
+}
+.moquu_copy4 {
+	width:330px
+}
+.moquu_rrxiax {
+	margin-left:340px
+}
+.moquu_mz {
+	width:440px
+}
+.moquu_small {
+	width:510px
+}
+.moquu_rrbt .css {
+	width:340px
+}
+.moquu_rrskzy {
+	float:left;
+	margin-top:15px;
+	width:250px;
+	margin-left:15px
+}
+}@media screen and (max-width:1200px) {
+	.moquu_top,.moquu_hom,.moquu_topad,.moquu_downtop2 .moquu_add img,.moquu_down,.moquu_downtop2,.moquu_comment,.moquu_wzrr,.moquu_dhmap,.moquu_h .moquu_f .moquu_b,#content,.moquu_downj,#moquu_content {
+	width:100%
+}
+.moquu_qtagc {
+	float:left
+}
+.moquu_zptoxv {
+	float:left
+}
+.moquu_zjlbx {
+	margin-left:7px
+}
+.moquu_tmap {
+	width:943px
+}
+.moquu_mappt,.moquu_mapys,.moquu_maphy {
+	float:left;
+	width:920px;
+	margin-left:10px
+}
+.moquu_tmap a,.moquu_maphy a {
+	width:75px;
+	height:38px;
+	line-height:38px;
+	margin:0 5px 8px 0
+}
+.moquu_mapys a {
+	height:26px;
+	line-height:26px;
+	margin:0 6px 10px 0;
+	padding:0 15px
+}
+.moquu_tmap a,.moquu_maphy a,.moquu_mapys a {
+	font-size:12px
+}
+.moquu_mapys .white {
+	width:43px;
+	height:40px;
+	line-height:40px
+}
+.moquu_mapys .orange,.moquu_mapys .blue,.moquu_mapys .green,.moquu_mapys .yellow,.moquu_mapys .red,.moquu_mapys .pink,.moquu_mapys .gray,.moquu_mapys .black,.moquu_mapys .colorful:hover,.moquu_mapys .colorful,.moquu_mapys .purple {
+	width:45px;
+	height:42px;
+	line-height:42px
+}
+.moquu_mappt h1 {
+	padding:10px 10px 10px 10px;
+	height:25px;
+	margin-bottom:18px;
+	font-size:16px
+}
+.moquu_mapys h1,.moquu_maphy h1 {
+	padding:30px 10px 10px 10px;
+	height:25px;
+	margin-bottom:18px;
+	font-size:16px
+}
+.moquu_collect {
+	width:988px
+}
+.mouqu_7x {
+	margin-left:27px;
+	float:left
+}
+.moquu_common,.moquu_commoz {
+	width: 100%;
+}
+.moquu_zptox,.moquu_zptoxm,.moquu_zptop,.moquu_utop,.moquu_htopp,.moquu_utoppx,.moquu_zptoxv {
+	width: 95%;
+}
+.moquu_zptop {
+	margin-left:15px
+}
+.moquu_zptoxm {
+	margin-left:35px
+}
+.moquu_zptox {
+	margin-left:12px
+}
+.moquu_utoppx {
+	margin-left:7px
+}
+.moquu_zonet {
+	width:990px;
+	background:url(https://www.qijishow.com/down/assets/app/4.jpg) no-repeat
+}
+.moquu_rrtop,.moquu_utopp {
+	margin-left:18px
+}
+.moquu_commob {
+	width:1024px;
+	margin:5px auto
+}
+.moquu_commox,.moquu_rrtop {
+	width:1024px
+}
+.top-rec-con,.moquu-page2,.moquu-page3,.moquu_downtop,.moquu_downtop4,.moquu_zpnew,.moquu_zpnewx,.moquu_zpnews {
+	width:980px
+}
+.top-title {
+	width:979px
+}
+.top-box {
+	width:978px
+}
+.top-rec {
+	width:904px;
+	_width:910px
+}
+.moquu_inner,.moquu_innez,.moquu_zonez {
+	width:960px
+}
+.moquu_hom a {
+	padding:5px 12px 5px 12px;
+	margin-right:15px
+}
+.moquu_hom a:hover {
+	padding:5px 12px 7px 12px
+}
+.moquu_hom a.moquu_zt,.moquu_h .moquu_f .moquu_b .moquu_n span a.btn {
+	padding:5px 3px 7px 3px;
+	font-size:14px
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch a.btn:hover {
+	font-size:14px;
+	color:#FFF
+}
+.moquu_nav span {
+	margin-left:645px
+}
+.moquu_qtag,.moquu_qtagx,.moquu_display,.moquu_downtop6,.moquu_haoxxnew,.moquu_haoxxnew a,.moquu_haoxxhot,.moquu_haoxxhot a,.moquu_haoxx,.moquu_ady {
+	display:none
+}
+.top-rec li {
+	width:64px
+}
+.top-rec li img {
+	width:56px
+}
+.top-rec li span {
+	width:64px
+}
+.moquu_zpimg,.moquu_zpimg2 {
+	width:221px;
+	margin-right:15px;
+	padding:7px
+}
+.moquu_zpimg .moquu_pic img,.moquu_zpbt,.moquu_zpzz.moquu_zpimg .moquu_picc img {
+	width:220px
+}
+.moquu_zpfx {
+	width:212px
+}
+.moquu_us .cell {
+	width:280px
+}
+.moquu_us .cell2 {
+	width:350px;
+	border-left:1px solid #626262
+}
+.moquu_us .cell3 {
+	width:275px;
+	border-left:1px solid #626262;
+	border-right:0;
+	padding-right:0
+}
+.moquu_rr {
+	width:268px
+}
+#sidebar,#sidebar-inner,.moquu_rry {
+	width:267px
+}
+.moquu_rry .moquu_rryb,#sidebar-inner .sidebar-inner {
+	width:255px
+}
+.moquu_wtop {
+	width:670px
+}
+.moquu_uedr {
+	width:915px
+}
+.moquu_uedr p a img {
+	max-width:910px
+}
+.intro {
+	width:495px
+}
+.moquu_img {
+	width:220px
+}
+.moquu_img3 {
+	width:193px
+}
+.moquu_img .moquu_pic img,.moquu_img .moquu_picc img {
+	width:220px
+}
+.moquu_rrsk {
+	width:983px
+}
+.moquu_rrskz,#focus,#focus ul li,#focus .btnBg,#focus .btn {
+	width:960px
+}
+.moquubtr {
+	width:650px;
+	padding-left:20px
+}
+.moquu_rrtp {
+	width:595px;
+	padding-left:40px
+}
+.moquu_tags {
+	width:490px
+}
+.moquu_date {
+	width:680px
+}
+.moquu_h .moquu_f .moquu_b .moquu_n .ch a.btn:hover {
+	color:#FFF
+}
+.moquu_tab {
+	width:699px
+}
+.moquu_wbbook {
+	width:667px;
+	margin-left:20px
+}
+.moquu_dshuo {
+	width:605px;
+	padding:10px 30px 20px 30px;
+	float:left;
+	margin-left:20px
+}
+.moquu_rrbt {
+	width:660px
+}
+.moquu_zpp {
+	width:752px
+}
+.moquu_rrdbx,.moquu_rrskzx,.moquu_wzrx,.moquu_ued,.moquu_ue {
+	width:700px
+}
+.moquu_rrtp img {
+	max-width:595px;
+	width:expression(document.body.clientWidth>595? "595px":"auto");
+	width:expression(document.body.clientWidth < 595? "auto":"auto")
+}
+.moquu_iconb {
+	width:770px
+}
+.moquu_zpneww {
+	width:1020px
+}
+.moquu_wzrx {
+	float:left;
+	width:710px;
+	margin-right:10px;
+	margin-top:10px;
+	background:#f9f9f9
+}
+ {
+	float:left;
+	width:990px;
+	margin-top:10px;
+	background:#f9f9f9
+}
+.moquu_wtox {
+	padding:20px 20px 23px 20px;
+	width:950px
+}
+.moquu_wtop {
+	padding:15px 20px 23px 20px
+}
+.moquubtr h1 {
+	font-size:14px;
+	padding-bottom:15px
+}
+.moquubtr h2 {
+	font-size:14px;
+	height:40px
+}
+.moquu_ty,.moquu_zonezy {
+	padding:10px;
+	width:958px
+}
+.moquu_tyy,moquu_bookl {
+	width:968px
+}
+.moquu_htop {
+	width:991px
+}
+.moquu_hao_rigth {
+	width:847px
+}
+.moquu_haobot a,.moquu_haobot {
+	width:97px
+}
+.moquu_haobot li a {
+	padding:0 10px;
+	_padding:0
+}
+.moquu_haox {
+	width:128px
+}
+.moquu_haox a:hover,.moquu_haoxnew a:hover,.moquu_haoxhot a:hover {
+	color:#e74987
+}
+.moquu_haoxnew,.moquu_haoxhot {
+	padding-left:18px;
+	width:110px
+}
+.moquu_hao_rigth li.moer {
+	padding-left:15px;
+	width:40px
+}
+.moquu_hao_rigth li.moer a {
+	width:45px
+}
+.moquu_hao_rigth li.moer a:hover {
+	color:#e74987
+}
+.moquu_downtop5 {
+	margin-left:21px;
+	padding-top:20px
+}
+.moquu_htop {
+	margin-top:20px
+}
+.moquu_box,.moquu_xynav {
+	width:890px
+}
+.moquu_us .cell .outname {
+	width:190px;
+	display:inline-block;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	-o-text-overflow:ellipsis;
+	overflow:hidden
+}
+.moquu_pimg2 {
+	width:498px;
+	margin-top:20px
+}
+.moquu_pimg3 {
+	width:485px;
+	height:250px
+}
+.moquu_pimg3 img {
+	width:483px;
+	height:240px
+}
+.moquu_ptitle {
+	width:476px
+}
+.moquu_zjlb {
+	margin-left:5px
+}
+.moquu_zjlb .moquu_zjlz a {
+	padding:10px 8px 10px 8px;
+	background:#48988e
+}
+.moquu_zjlb .moquu_zjly a {
+	padding:10px 8px 10px 8px;
+	background:#61b8ad
+}
+.moquu_zjlb .moquu_zjlx a {
+	padding:10px 8px 10px 8px;
+	background:#97cda5
+}
+.date,.moquu_rrzad {
+	display:none
+}
+.moquu_rrbt {
+	margin-left:1px
+}
+.moquu_copy4 {
+	width:180px
+}
+.moquu_rradt {
+	float:left;
+	text-align:center;
+	padding:15px 0 30px 0;
+	margin-left:30px
+}
+.moquu_rrxiax {
+	margin-left:240px
+}
+.moquu_rrbt .css {
+	width:240px
+}
+.moquu_mz {
+	width:240px
+}
+.moquu_small {
+	width:210px
+}
+.moquu_rrskzy {
+	float:left;
+	margin-top:15px;
+	width:230px
+}
+.moquu_uedx {
+	width:610px;
+	padding:0 10px 50px 25px;
+	overflow:hidden
+}
+.moquu_uedx p a img {
+	max-width:610px
+}
+}
